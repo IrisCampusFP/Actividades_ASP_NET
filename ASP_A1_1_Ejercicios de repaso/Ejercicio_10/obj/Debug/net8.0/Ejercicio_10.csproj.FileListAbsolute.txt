@@ -1,0 +1,15 @@
+W:\REPOS\prog_asp_net\ASP_A1_1_Ejercicios de repaso\Ejercicio_10\bin\Debug\net8.0\Ejercicio_10.exe
+W:\REPOS\prog_asp_net\ASP_A1_1_Ejercicios de repaso\Ejercicio_10\bin\Debug\net8.0\Ejercicio_10.deps.json
+W:\REPOS\prog_asp_net\ASP_A1_1_Ejercicios de repaso\Ejercicio_10\bin\Debug\net8.0\Ejercicio_10.runtimeconfig.json
+W:\REPOS\prog_asp_net\ASP_A1_1_Ejercicios de repaso\Ejercicio_10\bin\Debug\net8.0\Ejercicio_10.dll
+W:\REPOS\prog_asp_net\ASP_A1_1_Ejercicios de repaso\Ejercicio_10\bin\Debug\net8.0\Ejercicio_10.pdb
+W:\REPOS\prog_asp_net\ASP_A1_1_Ejercicios de repaso\Ejercicio_10\obj\Debug\net8.0\Ejercicio_10.GeneratedMSBuildEditorConfig.editorconfig
+W:\REPOS\prog_asp_net\ASP_A1_1_Ejercicios de repaso\Ejercicio_10\obj\Debug\net8.0\Ejercicio_10.AssemblyInfoInputs.cache
+W:\REPOS\prog_asp_net\ASP_A1_1_Ejercicios de repaso\Ejercicio_10\obj\Debug\net8.0\Ejercicio_10.AssemblyInfo.cs
+W:\REPOS\prog_asp_net\ASP_A1_1_Ejercicios de repaso\Ejercicio_10\obj\Debug\net8.0\Ejercicio_10.csproj.CoreCompileInputs.cache
+W:\REPOS\prog_asp_net\ASP_A1_1_Ejercicios de repaso\Ejercicio_10\obj\Debug\net8.0\Ejercicio_10.sourcelink.json
+W:\REPOS\prog_asp_net\ASP_A1_1_Ejercicios de repaso\Ejercicio_10\obj\Debug\net8.0\Ejercicio_10.dll
+W:\REPOS\prog_asp_net\ASP_A1_1_Ejercicios de repaso\Ejercicio_10\obj\Debug\net8.0\refint\Ejercicio_10.dll
+W:\REPOS\prog_asp_net\ASP_A1_1_Ejercicios de repaso\Ejercicio_10\obj\Debug\net8.0\Ejercicio_10.pdb
+W:\REPOS\prog_asp_net\ASP_A1_1_Ejercicios de repaso\Ejercicio_10\obj\Debug\net8.0\Ejercicio_10.genruntimeconfig.cache
+W:\REPOS\prog_asp_net\ASP_A1_1_Ejercicios de repaso\Ejercicio_10\obj\Debug\net8.0\ref\Ejercicio_10.dll

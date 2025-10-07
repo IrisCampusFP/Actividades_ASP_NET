@@ -1,0 +1,243 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "W:\\REPOS\\prog_asp_net\\ASP_A1_1_Ejercicios de repaso\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE7E9C11-C907-41EC-852D-32997FBA9780}|Ejercicio_11\\Ejercicio_11.csproj|w:\\repos\\prog_asp_net\\asp_a1_1_ejercicios de repaso\\ejercicio_11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE7E9C11-C907-41EC-852D-32997FBA9780}|Ejercicio_11\\Ejercicio_11.csproj|solutionrelative:ejercicio_11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85861173-03FF-4FAE-A63D-FE4C7BB158C6}|Ejercicio_10\\Ejercicio_10.csproj|w:\\repos\\prog_asp_net\\asp_a1_1_ejercicios de repaso\\ejercicio_10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85861173-03FF-4FAE-A63D-FE4C7BB158C6}|Ejercicio_10\\Ejercicio_10.csproj|solutionrelative:ejercicio_10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB90C47-69A4-4BE6-A154-2F7531E10E58}|Ejercicio_9\\Ejercicio_9.csproj|w:\\repos\\prog_asp_net\\asp_a1_1_ejercicios de repaso\\ejercicio_9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DB90C47-69A4-4BE6-A154-2F7531E10E58}|Ejercicio_9\\Ejercicio_9.csproj|solutionrelative:ejercicio_9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9149A7B4-A253-4363-845C-F656089AB899}|Ejercicio_8\\Ejercicio_8.csproj|w:\\repos\\prog_asp_net\\asp_a1_1_ejercicios de repaso\\ejercicio_8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9149A7B4-A253-4363-845C-F656089AB899}|Ejercicio_8\\Ejercicio_8.csproj|solutionrelative:ejercicio_8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45F47AEC-2275-403B-B9B1-D3E44AF04BA5}|Ejercicio_7\\Ejercicio_7.csproj|w:\\repos\\prog_asp_net\\asp_a1_1_ejercicios de repaso\\ejercicio_7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45F47AEC-2275-403B-B9B1-D3E44AF04BA5}|Ejercicio_7\\Ejercicio_7.csproj|solutionrelative:ejercicio_7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCA3BD36-8EBD-4340-92AB-6B237BF2395B}|Ejercicio_6\\Ejercicio_6.csproj|w:\\repos\\prog_asp_net\\asp_a1_1_ejercicios de repaso\\ejercicio_6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCA3BD36-8EBD-4340-92AB-6B237BF2395B}|Ejercicio_6\\Ejercicio_6.csproj|solutionrelative:ejercicio_6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFB3CD3B-1666-4775-A630-0745E219F003}|Ejercicio_5\\Ejercicio_5.csproj|w:\\repos\\prog_asp_net\\asp_a1_1_ejercicios de repaso\\ejercicio_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFB3CD3B-1666-4775-A630-0745E219F003}|Ejercicio_5\\Ejercicio_5.csproj|solutionrelative:ejercicio_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969269C0-94BD-49CF-910E-6AA7468DED28}|Ejercicio_4\\Ejercicio_4.csproj|w:\\repos\\prog_asp_net\\asp_a1_1_ejercicios de repaso\\ejercicio_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{969269C0-94BD-49CF-910E-6AA7468DED28}|Ejercicio_4\\Ejercicio_4.csproj|solutionrelative:ejercicio_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87ABAA52-D302-4F86-92F9-F6ABC31DEA9A}|Ejercicio_3\\Ejercicio_3.csproj|w:\\repos\\prog_asp_net\\asp_a1_1_ejercicios de repaso\\ejercicio_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87ABAA52-D302-4F86-92F9-F6ABC31DEA9A}|Ejercicio_3\\Ejercicio_3.csproj|solutionrelative:ejercicio_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3B77152-C5BE-4DB5-B91A-A401A98D2A3D}|Ejercicio_2\\Ejercicio_2.csproj|w:\\repos\\prog_asp_net\\asp_a1_1_ejercicios de repaso\\ejercicio_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3B77152-C5BE-4DB5-B91A-A401A98D2A3D}|Ejercicio_2\\Ejercicio_2.csproj|solutionrelative:ejercicio_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{282688A0-AF5E-4F99-8D2E-56D8FB7393D2}|Ejercicio_1\\Ejercicio_1.csproj|w:\\repos\\prog_asp_net\\asp_a1_1_ejercicios de repaso\\ejercicio_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{282688A0-AF5E-4F99-8D2E-56D8FB7393D2}|Ejercicio_1\\Ejercicio_1.csproj|solutionrelative:ejercicio_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE7E9C11-C907-41EC-852D-32997FBA9780}|Ejercicio_11\\Ejercicio_11.csproj|w:\\repos\\prog_asp_net\\asp_a1_1_ejercicios de repaso\\ejercicio_11\\productodetallado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE7E9C11-C907-41EC-852D-32997FBA9780}|Ejercicio_11\\Ejercicio_11.csproj|solutionrelative:ejercicio_11\\productodetallado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE7E9C11-C907-41EC-852D-32997FBA9780}|Ejercicio_11\\Ejercicio_11.csproj|w:\\repos\\prog_asp_net\\asp_a1_1_ejercicios de repaso\\ejercicio_11\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE7E9C11-C907-41EC-852D-32997FBA9780}|Ejercicio_11\\Ejercicio_11.csproj|solutionrelative:ejercicio_11\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "W:\\REPOS\\prog_asp_net\\ASP_A1_1_Ejercicios de repaso\\Ejercicio_7\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio_7\\Program.cs",
+              "ToolTip": "W:\\REPOS\\prog_asp_net\\ASP_A1_1_Ejercicios de repaso\\Ejercicio_7\\Program.cs",
+              "RelativeToolTip": "Ejercicio_7\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T17:48:13.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "W:\\REPOS\\prog_asp_net\\ASP_A1_1_Ejercicios de repaso\\Ejercicio_8\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio_8\\Program.cs",
+              "ToolTip": "W:\\REPOS\\prog_asp_net\\ASP_A1_1_Ejercicios de repaso\\Ejercicio_8\\Program.cs",
+              "RelativeToolTip": "Ejercicio_8\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T17:49:11.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "W:\\REPOS\\prog_asp_net\\ASP_A1_1_Ejercicios de repaso\\Ejercicio_9\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio_9\\Program.cs",
+              "ToolTip": "W:\\REPOS\\prog_asp_net\\ASP_A1_1_Ejercicios de repaso\\Ejercicio_9\\Program.cs",
+              "RelativeToolTip": "Ejercicio_9\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAcwDcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T17:49:44.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "W:\\REPOS\\prog_asp_net\\ASP_A1_1_Ejercicios de repaso\\Ejercicio_10\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio_10\\Program.cs",
+              "ToolTip": "W:\\REPOS\\prog_asp_net\\ASP_A1_1_Ejercicios de repaso\\Ejercicio_10\\Program.cs",
+              "RelativeToolTip": "Ejercicio_10\\Program.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAYwDcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T17:53:22.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "W:\\REPOS\\prog_asp_net\\ASP_A1_1_Ejercicios de repaso\\Ejercicio_11\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio_11\\Program.cs",
+              "ToolTip": "W:\\REPOS\\prog_asp_net\\ASP_A1_1_Ejercicios de repaso\\Ejercicio_11\\Program.cs",
+              "RelativeToolTip": "Ejercicio_11\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T09:44:05.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "W:\\REPOS\\prog_asp_net\\ASP_A1_1_Ejercicios de repaso\\Ejercicio_6\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio_6\\Program.cs",
+              "ToolTip": "W:\\REPOS\\prog_asp_net\\ASP_A1_1_Ejercicios de repaso\\Ejercicio_6\\Program.cs",
+              "RelativeToolTip": "Ejercicio_6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T17:47:36.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "W:\\REPOS\\prog_asp_net\\ASP_A1_1_Ejercicios de repaso\\Ejercicio_5\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio_5\\Program.cs",
+              "ToolTip": "W:\\REPOS\\prog_asp_net\\ASP_A1_1_Ejercicios de repaso\\Ejercicio_5\\Program.cs",
+              "RelativeToolTip": "Ejercicio_5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T17:46:57.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "W:\\REPOS\\prog_asp_net\\ASP_A1_1_Ejercicios de repaso\\Ejercicio_4\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio_4\\Program.cs",
+              "ToolTip": "W:\\REPOS\\prog_asp_net\\ASP_A1_1_Ejercicios de repaso\\Ejercicio_4\\Program.cs",
+              "RelativeToolTip": "Ejercicio_4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T17:46:05.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "W:\\REPOS\\prog_asp_net\\ASP_A1_1_Ejercicios de repaso\\Ejercicio_3\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio_3\\Program.cs",
+              "ToolTip": "W:\\REPOS\\prog_asp_net\\ASP_A1_1_Ejercicios de repaso\\Ejercicio_3\\Program.cs",
+              "RelativeToolTip": "Ejercicio_3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T17:45:42.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "W:\\REPOS\\prog_asp_net\\ASP_A1_1_Ejercicios de repaso\\Ejercicio_2\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio_2\\Program.cs",
+              "ToolTip": "W:\\REPOS\\prog_asp_net\\ASP_A1_1_Ejercicios de repaso\\Ejercicio_2\\Program.cs",
+              "RelativeToolTip": "Ejercicio_2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T17:45:04.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "W:\\REPOS\\prog_asp_net\\ASP_A1_1_Ejercicios de repaso\\Ejercicio_1\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio_1\\Program.cs",
+              "ToolTip": "W:\\REPOS\\prog_asp_net\\ASP_A1_1_Ejercicios de repaso\\Ejercicio_1\\Program.cs",
+              "RelativeToolTip": "Ejercicio_1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T17:41:50.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "W:\\REPOS\\prog_asp_net\\ASP_A1_1_Ejercicios de repaso\\Ejercicio_11\\Producto.cs",
+              "RelativeDocumentMoniker": "Ejercicio_11\\Producto.cs",
+              "ToolTip": "W:\\REPOS\\prog_asp_net\\ASP_A1_1_Ejercicios de repaso\\Ejercicio_11\\Producto.cs",
+              "RelativeToolTip": "Ejercicio_11\\Producto.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwBIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T10:28:10.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductoDetallado.cs",
+              "DocumentMoniker": "W:\\REPOS\\prog_asp_net\\ASP_A1_1_Ejercicios de repaso\\Ejercicio_11\\ProductoDetallado.cs",
+              "RelativeDocumentMoniker": "Ejercicio_11\\ProductoDetallado.cs",
+              "ToolTip": "W:\\REPOS\\prog_asp_net\\ASP_A1_1_Ejercicios de repaso\\Ejercicio_11\\ProductoDetallado.cs",
+              "RelativeToolTip": "Ejercicio_11\\ProductoDetallado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T10:43:59.605Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

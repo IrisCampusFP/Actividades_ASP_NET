@@ -1,0 +1,15 @@
+W:\REPOS\prog_asp_net\ASP-1-2-Ejercicios de manejo de excepciones\Ejercicio3\bin\Debug\net8.0\Ejercicio3.exe
+W:\REPOS\prog_asp_net\ASP-1-2-Ejercicios de manejo de excepciones\Ejercicio3\bin\Debug\net8.0\Ejercicio3.deps.json
+W:\REPOS\prog_asp_net\ASP-1-2-Ejercicios de manejo de excepciones\Ejercicio3\bin\Debug\net8.0\Ejercicio3.runtimeconfig.json
+W:\REPOS\prog_asp_net\ASP-1-2-Ejercicios de manejo de excepciones\Ejercicio3\bin\Debug\net8.0\Ejercicio3.dll
+W:\REPOS\prog_asp_net\ASP-1-2-Ejercicios de manejo de excepciones\Ejercicio3\bin\Debug\net8.0\Ejercicio3.pdb
+W:\REPOS\prog_asp_net\ASP-1-2-Ejercicios de manejo de excepciones\Ejercicio3\obj\Debug\net8.0\Ejercicio3.GeneratedMSBuildEditorConfig.editorconfig
+W:\REPOS\prog_asp_net\ASP-1-2-Ejercicios de manejo de excepciones\Ejercicio3\obj\Debug\net8.0\Ejercicio3.AssemblyInfoInputs.cache
+W:\REPOS\prog_asp_net\ASP-1-2-Ejercicios de manejo de excepciones\Ejercicio3\obj\Debug\net8.0\Ejercicio3.AssemblyInfo.cs
+W:\REPOS\prog_asp_net\ASP-1-2-Ejercicios de manejo de excepciones\Ejercicio3\obj\Debug\net8.0\Ejercicio3.csproj.CoreCompileInputs.cache
+W:\REPOS\prog_asp_net\ASP-1-2-Ejercicios de manejo de excepciones\Ejercicio3\obj\Debug\net8.0\Ejercicio3.sourcelink.json
+W:\REPOS\prog_asp_net\ASP-1-2-Ejercicios de manejo de excepciones\Ejercicio3\obj\Debug\net8.0\Ejercicio3.dll
+W:\REPOS\prog_asp_net\ASP-1-2-Ejercicios de manejo de excepciones\Ejercicio3\obj\Debug\net8.0\refint\Ejercicio3.dll
+W:\REPOS\prog_asp_net\ASP-1-2-Ejercicios de manejo de excepciones\Ejercicio3\obj\Debug\net8.0\Ejercicio3.pdb
+W:\REPOS\prog_asp_net\ASP-1-2-Ejercicios de manejo de excepciones\Ejercicio3\obj\Debug\net8.0\Ejercicio3.genruntimeconfig.cache
+W:\REPOS\prog_asp_net\ASP-1-2-Ejercicios de manejo de excepciones\Ejercicio3\obj\Debug\net8.0\ref\Ejercicio3.dll
