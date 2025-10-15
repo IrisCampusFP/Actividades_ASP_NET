@@ -1,0 +1,15 @@
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio4-Contar_pares_e_impares\bin\Debug\net8.0\Ejercicio4-Contar_pares_e_impares.exe
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio4-Contar_pares_e_impares\bin\Debug\net8.0\Ejercicio4-Contar_pares_e_impares.deps.json
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio4-Contar_pares_e_impares\bin\Debug\net8.0\Ejercicio4-Contar_pares_e_impares.runtimeconfig.json
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio4-Contar_pares_e_impares\bin\Debug\net8.0\Ejercicio4-Contar_pares_e_impares.dll
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio4-Contar_pares_e_impares\bin\Debug\net8.0\Ejercicio4-Contar_pares_e_impares.pdb
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio4-Contar_pares_e_impares\obj\Debug\net8.0\Ejercicio4-Contar_pares_e_impares.GeneratedMSBuildEditorConfig.editorconfig
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio4-Contar_pares_e_impares\obj\Debug\net8.0\Ejercicio4-Contar_pares_e_impares.AssemblyInfoInputs.cache
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio4-Contar_pares_e_impares\obj\Debug\net8.0\Ejercicio4-Contar_pares_e_impares.AssemblyInfo.cs
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio4-Contar_pares_e_impares\obj\Debug\net8.0\Ejercicio4-Contar_pares_e_impares.csproj.CoreCompileInputs.cache
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio4-Contar_pares_e_impares\obj\Debug\net8.0\Ejercicio4-Contar_pares_e_impares.sourcelink.json
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio4-Contar_pares_e_impares\obj\Debug\net8.0\Ejercicio4-Contar_pares_e_impares.dll
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio4-Contar_pares_e_impares\obj\Debug\net8.0\refint\Ejercicio4-Contar_pares_e_impares.dll
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio4-Contar_pares_e_impares\obj\Debug\net8.0\Ejercicio4-Contar_pares_e_impares.pdb
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio4-Contar_pares_e_impares\obj\Debug\net8.0\Ejercicio4-Contar_pares_e_impares.genruntimeconfig.cache
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio4-Contar_pares_e_impares\obj\Debug\net8.0\ref\Ejercicio4-Contar_pares_e_impares.dll

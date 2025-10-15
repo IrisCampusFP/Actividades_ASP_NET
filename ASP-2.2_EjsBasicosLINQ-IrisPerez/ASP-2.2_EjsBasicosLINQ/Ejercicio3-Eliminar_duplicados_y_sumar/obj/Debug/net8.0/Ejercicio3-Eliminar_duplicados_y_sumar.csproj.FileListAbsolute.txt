@@ -1,0 +1,15 @@
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio3-Eliminar_duplicados_y_sumar\bin\Debug\net8.0\Ejercicio3-Eliminar_duplicados_y_sumar.exe
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio3-Eliminar_duplicados_y_sumar\bin\Debug\net8.0\Ejercicio3-Eliminar_duplicados_y_sumar.deps.json
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio3-Eliminar_duplicados_y_sumar\bin\Debug\net8.0\Ejercicio3-Eliminar_duplicados_y_sumar.runtimeconfig.json
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio3-Eliminar_duplicados_y_sumar\bin\Debug\net8.0\Ejercicio3-Eliminar_duplicados_y_sumar.dll
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio3-Eliminar_duplicados_y_sumar\bin\Debug\net8.0\Ejercicio3-Eliminar_duplicados_y_sumar.pdb
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio3-Eliminar_duplicados_y_sumar\obj\Debug\net8.0\Ejercicio3-Eliminar_duplicados_y_sumar.GeneratedMSBuildEditorConfig.editorconfig
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio3-Eliminar_duplicados_y_sumar\obj\Debug\net8.0\Ejercicio3-Eliminar_duplicados_y_sumar.AssemblyInfoInputs.cache
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio3-Eliminar_duplicados_y_sumar\obj\Debug\net8.0\Ejercicio3-Eliminar_duplicados_y_sumar.AssemblyInfo.cs
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio3-Eliminar_duplicados_y_sumar\obj\Debug\net8.0\Ejercicio3-Eliminar_duplicados_y_sumar.csproj.CoreCompileInputs.cache
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio3-Eliminar_duplicados_y_sumar\obj\Debug\net8.0\Ejercicio3-Eliminar_duplicados_y_sumar.sourcelink.json
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio3-Eliminar_duplicados_y_sumar\obj\Debug\net8.0\Ejercicio3-Eliminar_duplicados_y_sumar.dll
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio3-Eliminar_duplicados_y_sumar\obj\Debug\net8.0\refint\Ejercicio3-Eliminar_duplicados_y_sumar.dll
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio3-Eliminar_duplicados_y_sumar\obj\Debug\net8.0\Ejercicio3-Eliminar_duplicados_y_sumar.pdb
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio3-Eliminar_duplicados_y_sumar\obj\Debug\net8.0\Ejercicio3-Eliminar_duplicados_y_sumar.genruntimeconfig.cache
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio3-Eliminar_duplicados_y_sumar\obj\Debug\net8.0\ref\Ejercicio3-Eliminar_duplicados_y_sumar.dll

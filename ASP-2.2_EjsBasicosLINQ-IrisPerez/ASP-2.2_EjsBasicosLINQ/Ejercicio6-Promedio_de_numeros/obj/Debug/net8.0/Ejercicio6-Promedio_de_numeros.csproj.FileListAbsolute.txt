@@ -1,0 +1,15 @@
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio6-Promedio_de_numeros\bin\Debug\net8.0\Ejercicio6-Promedio_de_numeros.exe
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio6-Promedio_de_numeros\bin\Debug\net8.0\Ejercicio6-Promedio_de_numeros.deps.json
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio6-Promedio_de_numeros\bin\Debug\net8.0\Ejercicio6-Promedio_de_numeros.runtimeconfig.json
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio6-Promedio_de_numeros\bin\Debug\net8.0\Ejercicio6-Promedio_de_numeros.dll
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio6-Promedio_de_numeros\bin\Debug\net8.0\Ejercicio6-Promedio_de_numeros.pdb
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio6-Promedio_de_numeros\obj\Debug\net8.0\Ejercicio6-Promedio_de_numeros.GeneratedMSBuildEditorConfig.editorconfig
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio6-Promedio_de_numeros\obj\Debug\net8.0\Ejercicio6-Promedio_de_numeros.AssemblyInfoInputs.cache
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio6-Promedio_de_numeros\obj\Debug\net8.0\Ejercicio6-Promedio_de_numeros.AssemblyInfo.cs
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio6-Promedio_de_numeros\obj\Debug\net8.0\Ejercicio6-Promedio_de_numeros.csproj.CoreCompileInputs.cache
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio6-Promedio_de_numeros\obj\Debug\net8.0\Ejercicio6-Promedio_de_numeros.sourcelink.json
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio6-Promedio_de_numeros\obj\Debug\net8.0\Ejercicio6-Promedio_de_numeros.dll
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio6-Promedio_de_numeros\obj\Debug\net8.0\refint\Ejercicio6-Promedio_de_numeros.dll
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio6-Promedio_de_numeros\obj\Debug\net8.0\Ejercicio6-Promedio_de_numeros.pdb
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio6-Promedio_de_numeros\obj\Debug\net8.0\Ejercicio6-Promedio_de_numeros.genruntimeconfig.cache
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio6-Promedio_de_numeros\obj\Debug\net8.0\ref\Ejercicio6-Promedio_de_numeros.dll

@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "W:\\REPOS\\prog_asp_net\\Ejercicios\\ASP-2.2_EjsBasicosLINQ-IrisPerez\\ASP-2.2_EjsBasicosLINQ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23C2F1CB-354B-4271-84BB-2A0CDB6D991A}|Ejercicio7-Crear_nuevos_objetos\\Ejercicio7-Crear_nuevos_objetos.csproj|w:\\repos\\prog_asp_net\\ejercicios\\asp-2.2_ejsbasicoslinq-irisperez\\asp-2.2_ejsbasicoslinq\\ejercicio7-crear_nuevos_objetos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C2F1CB-354B-4271-84BB-2A0CDB6D991A}|Ejercicio7-Crear_nuevos_objetos\\Ejercicio7-Crear_nuevos_objetos.csproj|solutionrelative:ejercicio7-crear_nuevos_objetos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D308C6E1-557F-438A-8DCA-7DBA3561CB4A}|Ejercicio6-Promedio_de_numeros\\Ejercicio6-Promedio_de_numeros.csproj|w:\\repos\\prog_asp_net\\ejercicios\\asp-2.2_ejsbasicoslinq-irisperez\\asp-2.2_ejsbasicoslinq\\ejercicio6-promedio_de_numeros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D308C6E1-557F-438A-8DCA-7DBA3561CB4A}|Ejercicio6-Promedio_de_numeros\\Ejercicio6-Promedio_de_numeros.csproj|solutionrelative:ejercicio6-promedio_de_numeros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5A0B122-118C-4ABF-AA2E-148C91C56AEC}|Ejercicio5-Agrupar_y_contar_repeticiones\\Ejercicio5-Agrupar_y_contar_repeticiones.csproj|w:\\repos\\prog_asp_net\\ejercicios\\asp-2.2_ejsbasicoslinq-irisperez\\asp-2.2_ejsbasicoslinq\\ejercicio5-agrupar_y_contar_repeticiones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5A0B122-118C-4ABF-AA2E-148C91C56AEC}|Ejercicio5-Agrupar_y_contar_repeticiones\\Ejercicio5-Agrupar_y_contar_repeticiones.csproj|solutionrelative:ejercicio5-agrupar_y_contar_repeticiones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2361C50-362B-41E4-A51A-5EA57F6A5B6D}|Ejercicio4-Contar_pares_e_impares\\Ejercicio4-Contar_pares_e_impares.csproj|w:\\repos\\prog_asp_net\\ejercicios\\asp-2.2_ejsbasicoslinq-irisperez\\asp-2.2_ejsbasicoslinq\\ejercicio4-contar_pares_e_impares\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2361C50-362B-41E4-A51A-5EA57F6A5B6D}|Ejercicio4-Contar_pares_e_impares\\Ejercicio4-Contar_pares_e_impares.csproj|solutionrelative:ejercicio4-contar_pares_e_impares\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C89477E-2363-4D65-BB0F-9F6874D6A4CD}|Ejercicio3-Eliminar_duplicados_y_sumar\\Ejercicio3-Eliminar_duplicados_y_sumar.csproj|w:\\repos\\prog_asp_net\\ejercicios\\asp-2.2_ejsbasicoslinq-irisperez\\asp-2.2_ejsbasicoslinq\\ejercicio3-eliminar_duplicados_y_sumar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C89477E-2363-4D65-BB0F-9F6874D6A4CD}|Ejercicio3-Eliminar_duplicados_y_sumar\\Ejercicio3-Eliminar_duplicados_y_sumar.csproj|solutionrelative:ejercicio3-eliminar_duplicados_y_sumar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{885F3E9B-F823-486C-BA2F-79631A9C8384}|Ejercicio2-Ordenar_y_transformar\\Ejercicio2-Ordenar_y_transformar.csproj|w:\\repos\\prog_asp_net\\ejercicios\\asp-2.2_ejsbasicoslinq-irisperez\\asp-2.2_ejsbasicoslinq\\ejercicio2-ordenar_y_transformar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{885F3E9B-F823-486C-BA2F-79631A9C8384}|Ejercicio2-Ordenar_y_transformar\\Ejercicio2-Ordenar_y_transformar.csproj|solutionrelative:ejercicio2-ordenar_y_transformar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6685115-4BD4-416A-B28D-6F05EFAD8755}|Ejercicio1-Filtrar_elementos\\Ejercicio1-Filtrar_elementos.csproj|w:\\repos\\prog_asp_net\\ejercicios\\asp-2.2_ejsbasicoslinq-irisperez\\asp-2.2_ejsbasicoslinq\\ejercicio1-filtrar_elementos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6685115-4BD4-416A-B28D-6F05EFAD8755}|Ejercicio1-Filtrar_elementos\\Ejercicio1-Filtrar_elementos.csproj|solutionrelative:ejercicio1-filtrar_elementos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "W:\\REPOS\\prog_asp_net\\Ejercicios\\ASP-2.2_EjsBasicosLINQ-IrisPerez\\ASP-2.2_EjsBasicosLINQ\\Ejercicio4-Contar_pares_e_impares\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio4-Contar_pares_e_impares\\Program.cs",
+              "ToolTip": "W:\\REPOS\\prog_asp_net\\Ejercicios\\ASP-2.2_EjsBasicosLINQ-IrisPerez\\ASP-2.2_EjsBasicosLINQ\\Ejercicio4-Contar_pares_e_impares\\Program.cs",
+              "RelativeToolTip": "Ejercicio4-Contar_pares_e_impares\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T11:47:52.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "W:\\REPOS\\prog_asp_net\\Ejercicios\\ASP-2.2_EjsBasicosLINQ-IrisPerez\\ASP-2.2_EjsBasicosLINQ\\Ejercicio5-Agrupar_y_contar_repeticiones\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio5-Agrupar_y_contar_repeticiones\\Program.cs",
+              "ToolTip": "W:\\REPOS\\prog_asp_net\\Ejercicios\\ASP-2.2_EjsBasicosLINQ-IrisPerez\\ASP-2.2_EjsBasicosLINQ\\Ejercicio5-Agrupar_y_contar_repeticiones\\Program.cs",
+              "RelativeToolTip": "Ejercicio5-Agrupar_y_contar_repeticiones\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T12:01:44.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "W:\\REPOS\\prog_asp_net\\Ejercicios\\ASP-2.2_EjsBasicosLINQ-IrisPerez\\ASP-2.2_EjsBasicosLINQ\\Ejercicio6-Promedio_de_numeros\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio6-Promedio_de_numeros\\Program.cs",
+              "ToolTip": "W:\\REPOS\\prog_asp_net\\Ejercicios\\ASP-2.2_EjsBasicosLINQ-IrisPerez\\ASP-2.2_EjsBasicosLINQ\\Ejercicio6-Promedio_de_numeros\\Program.cs",
+              "RelativeToolTip": "Ejercicio6-Promedio_de_numeros\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T12:15:16.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "W:\\REPOS\\prog_asp_net\\Ejercicios\\ASP-2.2_EjsBasicosLINQ-IrisPerez\\ASP-2.2_EjsBasicosLINQ\\Ejercicio7-Crear_nuevos_objetos\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio7-Crear_nuevos_objetos\\Program.cs",
+              "ToolTip": "W:\\REPOS\\prog_asp_net\\Ejercicios\\ASP-2.2_EjsBasicosLINQ-IrisPerez\\ASP-2.2_EjsBasicosLINQ\\Ejercicio7-Crear_nuevos_objetos\\Program.cs",
+              "RelativeToolTip": "Ejercicio7-Crear_nuevos_objetos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T12:21:15.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "W:\\REPOS\\prog_asp_net\\Ejercicios\\ASP-2.2_EjsBasicosLINQ-IrisPerez\\ASP-2.2_EjsBasicosLINQ\\Ejercicio3-Eliminar_duplicados_y_sumar\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio3-Eliminar_duplicados_y_sumar\\Program.cs",
+              "ToolTip": "W:\\REPOS\\prog_asp_net\\Ejercicios\\ASP-2.2_EjsBasicosLINQ-IrisPerez\\ASP-2.2_EjsBasicosLINQ\\Ejercicio3-Eliminar_duplicados_y_sumar\\Program.cs",
+              "RelativeToolTip": "Ejercicio3-Eliminar_duplicados_y_sumar\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T11:31:23.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "W:\\REPOS\\prog_asp_net\\Ejercicios\\ASP-2.2_EjsBasicosLINQ-IrisPerez\\ASP-2.2_EjsBasicosLINQ\\Ejercicio2-Ordenar_y_transformar\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio2-Ordenar_y_transformar\\Program.cs",
+              "ToolTip": "W:\\REPOS\\prog_asp_net\\Ejercicios\\ASP-2.2_EjsBasicosLINQ-IrisPerez\\ASP-2.2_EjsBasicosLINQ\\Ejercicio2-Ordenar_y_transformar\\Program.cs",
+              "RelativeToolTip": "Ejercicio2-Ordenar_y_transformar\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T11:14:35.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "W:\\REPOS\\prog_asp_net\\Ejercicios\\ASP-2.2_EjsBasicosLINQ-IrisPerez\\ASP-2.2_EjsBasicosLINQ\\Ejercicio1-Filtrar_elementos\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio1-Filtrar_elementos\\Program.cs",
+              "ToolTip": "W:\\REPOS\\prog_asp_net\\Ejercicios\\ASP-2.2_EjsBasicosLINQ-IrisPerez\\ASP-2.2_EjsBasicosLINQ\\Ejercicio1-Filtrar_elementos\\Program.cs",
+              "RelativeToolTip": "Ejercicio1-Filtrar_elementos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T11:42:03.688Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

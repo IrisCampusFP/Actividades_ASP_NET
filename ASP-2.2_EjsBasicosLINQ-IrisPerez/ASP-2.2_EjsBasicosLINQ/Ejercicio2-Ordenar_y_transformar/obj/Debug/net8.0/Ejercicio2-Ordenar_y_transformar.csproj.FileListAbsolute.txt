@@ -1,0 +1,15 @@
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio2-Ordenar_y_transformar\bin\Debug\net8.0\Ejercicio2-Ordenar_y_transformar.exe
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio2-Ordenar_y_transformar\bin\Debug\net8.0\Ejercicio2-Ordenar_y_transformar.deps.json
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio2-Ordenar_y_transformar\bin\Debug\net8.0\Ejercicio2-Ordenar_y_transformar.runtimeconfig.json
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio2-Ordenar_y_transformar\bin\Debug\net8.0\Ejercicio2-Ordenar_y_transformar.dll
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio2-Ordenar_y_transformar\bin\Debug\net8.0\Ejercicio2-Ordenar_y_transformar.pdb
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio2-Ordenar_y_transformar\obj\Debug\net8.0\Ejercicio2-Ordenar_y_transformar.GeneratedMSBuildEditorConfig.editorconfig
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio2-Ordenar_y_transformar\obj\Debug\net8.0\Ejercicio2-Ordenar_y_transformar.AssemblyInfoInputs.cache
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio2-Ordenar_y_transformar\obj\Debug\net8.0\Ejercicio2-Ordenar_y_transformar.AssemblyInfo.cs
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio2-Ordenar_y_transformar\obj\Debug\net8.0\Ejercicio2-Ordenar_y_transformar.csproj.CoreCompileInputs.cache
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio2-Ordenar_y_transformar\obj\Debug\net8.0\Ejercicio2-Ordenar_y_transformar.sourcelink.json
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio2-Ordenar_y_transformar\obj\Debug\net8.0\Ejercicio2-Ordenar_y_transformar.dll
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio2-Ordenar_y_transformar\obj\Debug\net8.0\refint\Ejercicio2-Ordenar_y_transformar.dll
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio2-Ordenar_y_transformar\obj\Debug\net8.0\Ejercicio2-Ordenar_y_transformar.pdb
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio2-Ordenar_y_transformar\obj\Debug\net8.0\Ejercicio2-Ordenar_y_transformar.genruntimeconfig.cache
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio2-Ordenar_y_transformar\obj\Debug\net8.0\ref\Ejercicio2-Ordenar_y_transformar.dll

@@ -1,0 +1,15 @@
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio1-Filtrar_elementos\bin\Debug\net8.0\Ejercicio1-Filtrar_elementos.exe
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio1-Filtrar_elementos\bin\Debug\net8.0\Ejercicio1-Filtrar_elementos.deps.json
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio1-Filtrar_elementos\bin\Debug\net8.0\Ejercicio1-Filtrar_elementos.runtimeconfig.json
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio1-Filtrar_elementos\bin\Debug\net8.0\Ejercicio1-Filtrar_elementos.dll
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio1-Filtrar_elementos\bin\Debug\net8.0\Ejercicio1-Filtrar_elementos.pdb
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio1-Filtrar_elementos\obj\Debug\net8.0\Ejercicio1-Filtrar_elementos.GeneratedMSBuildEditorConfig.editorconfig
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio1-Filtrar_elementos\obj\Debug\net8.0\Ejercicio1-Filtrar_elementos.AssemblyInfoInputs.cache
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio1-Filtrar_elementos\obj\Debug\net8.0\Ejercicio1-Filtrar_elementos.AssemblyInfo.cs
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio1-Filtrar_elementos\obj\Debug\net8.0\Ejercicio1-Filtrar_elementos.csproj.CoreCompileInputs.cache
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio1-Filtrar_elementos\obj\Debug\net8.0\Ejercicio1-Filtrar_elementos.sourcelink.json
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio1-Filtrar_elementos\obj\Debug\net8.0\Ejercicio1-Filtrar_elementos.dll
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio1-Filtrar_elementos\obj\Debug\net8.0\refint\Ejercicio1-Filtrar_elementos.dll
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio1-Filtrar_elementos\obj\Debug\net8.0\Ejercicio1-Filtrar_elementos.pdb
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio1-Filtrar_elementos\obj\Debug\net8.0\Ejercicio1-Filtrar_elementos.genruntimeconfig.cache
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio1-Filtrar_elementos\obj\Debug\net8.0\ref\Ejercicio1-Filtrar_elementos.dll

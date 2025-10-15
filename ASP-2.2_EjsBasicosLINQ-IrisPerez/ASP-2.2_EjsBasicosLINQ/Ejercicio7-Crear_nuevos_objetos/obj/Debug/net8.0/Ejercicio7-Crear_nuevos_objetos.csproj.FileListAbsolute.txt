@@ -1,0 +1,15 @@
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio7-Crear_nuevos_objetos\bin\Debug\net8.0\Ejercicio7-Crear_nuevos_objetos.exe
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio7-Crear_nuevos_objetos\bin\Debug\net8.0\Ejercicio7-Crear_nuevos_objetos.deps.json
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio7-Crear_nuevos_objetos\bin\Debug\net8.0\Ejercicio7-Crear_nuevos_objetos.runtimeconfig.json
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio7-Crear_nuevos_objetos\bin\Debug\net8.0\Ejercicio7-Crear_nuevos_objetos.dll
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio7-Crear_nuevos_objetos\bin\Debug\net8.0\Ejercicio7-Crear_nuevos_objetos.pdb
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio7-Crear_nuevos_objetos\obj\Debug\net8.0\Ejercicio7-Crear_nuevos_objetos.GeneratedMSBuildEditorConfig.editorconfig
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio7-Crear_nuevos_objetos\obj\Debug\net8.0\Ejercicio7-Crear_nuevos_objetos.AssemblyInfoInputs.cache
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio7-Crear_nuevos_objetos\obj\Debug\net8.0\Ejercicio7-Crear_nuevos_objetos.AssemblyInfo.cs
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio7-Crear_nuevos_objetos\obj\Debug\net8.0\Ejercicio7-Crear_nuevos_objetos.csproj.CoreCompileInputs.cache
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio7-Crear_nuevos_objetos\obj\Debug\net8.0\Ejercicio7-Crear_nuevos_objetos.sourcelink.json
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio7-Crear_nuevos_objetos\obj\Debug\net8.0\Ejercicio7-Crear_nuevos_objetos.dll
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio7-Crear_nuevos_objetos\obj\Debug\net8.0\refint\Ejercicio7-Crear_nuevos_objetos.dll
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio7-Crear_nuevos_objetos\obj\Debug\net8.0\Ejercicio7-Crear_nuevos_objetos.pdb
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio7-Crear_nuevos_objetos\obj\Debug\net8.0\Ejercicio7-Crear_nuevos_objetos.genruntimeconfig.cache
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio7-Crear_nuevos_objetos\obj\Debug\net8.0\ref\Ejercicio7-Crear_nuevos_objetos.dll

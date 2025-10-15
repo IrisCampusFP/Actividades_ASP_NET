@@ -1,0 +1,15 @@
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio5-Agrupar_y_contar_repeticiones\bin\Debug\net8.0\Ejercicio5-Agrupar_y_contar_repeticiones.exe
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio5-Agrupar_y_contar_repeticiones\bin\Debug\net8.0\Ejercicio5-Agrupar_y_contar_repeticiones.deps.json
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio5-Agrupar_y_contar_repeticiones\bin\Debug\net8.0\Ejercicio5-Agrupar_y_contar_repeticiones.runtimeconfig.json
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio5-Agrupar_y_contar_repeticiones\bin\Debug\net8.0\Ejercicio5-Agrupar_y_contar_repeticiones.dll
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio5-Agrupar_y_contar_repeticiones\bin\Debug\net8.0\Ejercicio5-Agrupar_y_contar_repeticiones.pdb
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio5-Agrupar_y_contar_repeticiones\obj\Debug\net8.0\Ejercicio5-Agrupar_y_contar_repeticiones.GeneratedMSBuildEditorConfig.editorconfig
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio5-Agrupar_y_contar_repeticiones\obj\Debug\net8.0\Ejercicio5-Agrupar_y_contar_repeticiones.AssemblyInfoInputs.cache
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio5-Agrupar_y_contar_repeticiones\obj\Debug\net8.0\Ejercicio5-Agrupar_y_contar_repeticiones.AssemblyInfo.cs
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio5-Agrupar_y_contar_repeticiones\obj\Debug\net8.0\Ejercicio5-Agrupar_y_contar_repeticiones.csproj.CoreCompileInputs.cache
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio5-Agrupar_y_contar_repeticiones\obj\Debug\net8.0\Ejercicio5-Agrupar_y_contar_repeticiones.sourcelink.json
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio5-Agrupar_y_contar_repeticiones\obj\Debug\net8.0\Ejercicio5-Agrupar_y_contar_repeticiones.dll
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio5-Agrupar_y_contar_repeticiones\obj\Debug\net8.0\refint\Ejercicio5-Agrupar_y_contar_repeticiones.dll
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio5-Agrupar_y_contar_repeticiones\obj\Debug\net8.0\Ejercicio5-Agrupar_y_contar_repeticiones.pdb
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio5-Agrupar_y_contar_repeticiones\obj\Debug\net8.0\Ejercicio5-Agrupar_y_contar_repeticiones.genruntimeconfig.cache
+W:\REPOS\prog_asp_net\Ejercicios\ASP-2.2_EjsBasicosLINQ-IrisPerez\ASP-2.2_EjsBasicosLINQ\Ejercicio5-Agrupar_y_contar_repeticiones\obj\Debug\net8.0\ref\Ejercicio5-Agrupar_y_contar_repeticiones.dll
