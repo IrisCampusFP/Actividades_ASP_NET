@@ -1,0 +1,15 @@
+C:\REPOS\prog_asp_net\Ejercicios\ASP-A2.1-EjsBasicosColecciones-IrisPerez\ASP-A2.1-EjsBasicosColecciones\Ejercicio5\bin\Debug\net8.0\Ejercicio5.exe
+C:\REPOS\prog_asp_net\Ejercicios\ASP-A2.1-EjsBasicosColecciones-IrisPerez\ASP-A2.1-EjsBasicosColecciones\Ejercicio5\bin\Debug\net8.0\Ejercicio5.deps.json
+C:\REPOS\prog_asp_net\Ejercicios\ASP-A2.1-EjsBasicosColecciones-IrisPerez\ASP-A2.1-EjsBasicosColecciones\Ejercicio5\bin\Debug\net8.0\Ejercicio5.runtimeconfig.json
+C:\REPOS\prog_asp_net\Ejercicios\ASP-A2.1-EjsBasicosColecciones-IrisPerez\ASP-A2.1-EjsBasicosColecciones\Ejercicio5\bin\Debug\net8.0\Ejercicio5.dll
+C:\REPOS\prog_asp_net\Ejercicios\ASP-A2.1-EjsBasicosColecciones-IrisPerez\ASP-A2.1-EjsBasicosColecciones\Ejercicio5\bin\Debug\net8.0\Ejercicio5.pdb
+C:\REPOS\prog_asp_net\Ejercicios\ASP-A2.1-EjsBasicosColecciones-IrisPerez\ASP-A2.1-EjsBasicosColecciones\Ejercicio5\obj\Debug\net8.0\Ejercicio5.GeneratedMSBuildEditorConfig.editorconfig
+C:\REPOS\prog_asp_net\Ejercicios\ASP-A2.1-EjsBasicosColecciones-IrisPerez\ASP-A2.1-EjsBasicosColecciones\Ejercicio5\obj\Debug\net8.0\Ejercicio5.AssemblyInfoInputs.cache
+C:\REPOS\prog_asp_net\Ejercicios\ASP-A2.1-EjsBasicosColecciones-IrisPerez\ASP-A2.1-EjsBasicosColecciones\Ejercicio5\obj\Debug\net8.0\Ejercicio5.AssemblyInfo.cs
+C:\REPOS\prog_asp_net\Ejercicios\ASP-A2.1-EjsBasicosColecciones-IrisPerez\ASP-A2.1-EjsBasicosColecciones\Ejercicio5\obj\Debug\net8.0\Ejercicio5.csproj.CoreCompileInputs.cache
+C:\REPOS\prog_asp_net\Ejercicios\ASP-A2.1-EjsBasicosColecciones-IrisPerez\ASP-A2.1-EjsBasicosColecciones\Ejercicio5\obj\Debug\net8.0\Ejercicio5.sourcelink.json
+C:\REPOS\prog_asp_net\Ejercicios\ASP-A2.1-EjsBasicosColecciones-IrisPerez\ASP-A2.1-EjsBasicosColecciones\Ejercicio5\obj\Debug\net8.0\Ejercicio5.dll
+C:\REPOS\prog_asp_net\Ejercicios\ASP-A2.1-EjsBasicosColecciones-IrisPerez\ASP-A2.1-EjsBasicosColecciones\Ejercicio5\obj\Debug\net8.0\refint\Ejercicio5.dll
+C:\REPOS\prog_asp_net\Ejercicios\ASP-A2.1-EjsBasicosColecciones-IrisPerez\ASP-A2.1-EjsBasicosColecciones\Ejercicio5\obj\Debug\net8.0\Ejercicio5.pdb
+C:\REPOS\prog_asp_net\Ejercicios\ASP-A2.1-EjsBasicosColecciones-IrisPerez\ASP-A2.1-EjsBasicosColecciones\Ejercicio5\obj\Debug\net8.0\Ejercicio5.genruntimeconfig.cache
+C:\REPOS\prog_asp_net\Ejercicios\ASP-A2.1-EjsBasicosColecciones-IrisPerez\ASP-A2.1-EjsBasicosColecciones\Ejercicio5\obj\Debug\net8.0\ref\Ejercicio5.dll

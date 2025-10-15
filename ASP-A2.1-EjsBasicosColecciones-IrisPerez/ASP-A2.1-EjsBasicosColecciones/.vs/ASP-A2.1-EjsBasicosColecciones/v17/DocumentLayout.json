@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\REPOS\\prog_asp_net\\Ejercicios\\ASP-A2.1-EjsBasicosColecciones-IrisPerez\\ASP-A2.1-EjsBasicosColecciones\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF412802-30E7-4323-A3C4-C1F40DF01EBB}|Ejercicio5\\Ejercicio5.csproj|c:\\repos\\prog_asp_net\\ejercicios\\asp-a2.1-ejsbasicoscolecciones-irisperez\\asp-a2.1-ejsbasicoscolecciones\\ejercicio5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF412802-30E7-4323-A3C4-C1F40DF01EBB}|Ejercicio5\\Ejercicio5.csproj|solutionrelative:ejercicio5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA77A4AC-FA90-4322-9929-EF31796A1FF5}|Ejercicio4\\Ejercicio4.csproj|c:\\repos\\prog_asp_net\\ejercicios\\asp-a2.1-ejsbasicoscolecciones-irisperez\\asp-a2.1-ejsbasicoscolecciones\\ejercicio4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA77A4AC-FA90-4322-9929-EF31796A1FF5}|Ejercicio4\\Ejercicio4.csproj|solutionrelative:ejercicio4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB15104B-0ADD-4A36-9C6A-7976BEFFAD36}|Ejercicio3\\Ejercicio3.csproj|c:\\repos\\prog_asp_net\\ejercicios\\asp-a2.1-ejsbasicoscolecciones-irisperez\\asp-a2.1-ejsbasicoscolecciones\\ejercicio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB15104B-0ADD-4A36-9C6A-7976BEFFAD36}|Ejercicio3\\Ejercicio3.csproj|solutionrelative:ejercicio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA1403E-2D1E-4580-BCB4-DE51B92113FE}|Ejercicio2\\Ejercicio2.csproj|c:\\repos\\prog_asp_net\\ejercicios\\asp-a2.1-ejsbasicoscolecciones-irisperez\\asp-a2.1-ejsbasicoscolecciones\\ejercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DA1403E-2D1E-4580-BCB4-DE51B92113FE}|Ejercicio2\\Ejercicio2.csproj|solutionrelative:ejercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49A7707E-E141-42A0-9F65-52EF23B01B4B}|Ejercicio1\\Ejercicio1.csproj|c:\\repos\\prog_asp_net\\ejercicios\\asp-a2.1-ejsbasicoscolecciones-irisperez\\asp-a2.1-ejsbasicoscolecciones\\ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49A7707E-E141-42A0-9F65-52EF23B01B4B}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77649B2E-3BFB-4466-B218-C0E2CF8D769B}|Ejercicio6\\Ejercicio6.csproj|c:\\repos\\prog_asp_net\\ejercicios\\asp-a2.1-ejsbasicoscolecciones-irisperez\\asp-a2.1-ejsbasicoscolecciones\\ejercicio6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77649B2E-3BFB-4466-B218-C0E2CF8D769B}|Ejercicio6\\Ejercicio6.csproj|solutionrelative:ejercicio6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9DB45F-0DC6-4E4D-A04F-5210D90AB893}|Ejercicio8\\Ejercicio8.csproj|c:\\repos\\prog_asp_net\\ejercicios\\asp-a2.1-ejsbasicoscolecciones-irisperez\\asp-a2.1-ejsbasicoscolecciones\\ejercicio8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C9DB45F-0DC6-4E4D-A04F-5210D90AB893}|Ejercicio8\\Ejercicio8.csproj|solutionrelative:ejercicio8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE6402BD-A08E-42FB-B0EE-1FC0B4EC1A66}|Ejercicio7\\Ejercicio7.csproj|c:\\repos\\prog_asp_net\\ejercicios\\asp-a2.1-ejsbasicoscolecciones-irisperez\\asp-a2.1-ejsbasicoscolecciones\\ejercicio7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE6402BD-A08E-42FB-B0EE-1FC0B4EC1A66}|Ejercicio7\\Ejercicio7.csproj|solutionrelative:ejercicio7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\REPOS\\prog_asp_net\\Ejercicios\\ASP-A2.1-EjsBasicosColecciones-IrisPerez\\ASP-A2.1-EjsBasicosColecciones\\Ejercicio6\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio6\\Program.cs",
+              "ToolTip": "C:\\REPOS\\prog_asp_net\\Ejercicios\\ASP-A2.1-EjsBasicosColecciones-IrisPerez\\ASP-A2.1-EjsBasicosColecciones\\Ejercicio6\\Program.cs",
+              "RelativeToolTip": "Ejercicio6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T09:39:50.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\REPOS\\prog_asp_net\\Ejercicios\\ASP-A2.1-EjsBasicosColecciones-IrisPerez\\ASP-A2.1-EjsBasicosColecciones\\Ejercicio3\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio3\\Program.cs",
+              "ToolTip": "C:\\REPOS\\prog_asp_net\\Ejercicios\\ASP-A2.1-EjsBasicosColecciones-IrisPerez\\ASP-A2.1-EjsBasicosColecciones\\Ejercicio3\\Program.cs",
+              "RelativeToolTip": "Ejercicio3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T09:28:13.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\REPOS\\prog_asp_net\\Ejercicios\\ASP-A2.1-EjsBasicosColecciones-IrisPerez\\ASP-A2.1-EjsBasicosColecciones\\Ejercicio1\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio1\\Program.cs",
+              "ToolTip": "C:\\REPOS\\prog_asp_net\\Ejercicios\\ASP-A2.1-EjsBasicosColecciones-IrisPerez\\ASP-A2.1-EjsBasicosColecciones\\Ejercicio1\\Program.cs",
+              "RelativeToolTip": "Ejercicio1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T09:21:31.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\REPOS\\prog_asp_net\\Ejercicios\\ASP-A2.1-EjsBasicosColecciones-IrisPerez\\ASP-A2.1-EjsBasicosColecciones\\Ejercicio2\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio2\\Program.cs",
+              "ToolTip": "C:\\REPOS\\prog_asp_net\\Ejercicios\\ASP-A2.1-EjsBasicosColecciones-IrisPerez\\ASP-A2.1-EjsBasicosColecciones\\Ejercicio2\\Program.cs",
+              "RelativeToolTip": "Ejercicio2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T09:24:03.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\REPOS\\prog_asp_net\\Ejercicios\\ASP-A2.1-EjsBasicosColecciones-IrisPerez\\ASP-A2.1-EjsBasicosColecciones\\Ejercicio4\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio4\\Program.cs",
+              "ToolTip": "C:\\REPOS\\prog_asp_net\\Ejercicios\\ASP-A2.1-EjsBasicosColecciones-IrisPerez\\ASP-A2.1-EjsBasicosColecciones\\Ejercicio4\\Program.cs",
+              "RelativeToolTip": "Ejercicio4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T09:30:46.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\REPOS\\prog_asp_net\\Ejercicios\\ASP-A2.1-EjsBasicosColecciones-IrisPerez\\ASP-A2.1-EjsBasicosColecciones\\Ejercicio5\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio5\\Program.cs",
+              "ToolTip": "C:\\REPOS\\prog_asp_net\\Ejercicios\\ASP-A2.1-EjsBasicosColecciones-IrisPerez\\ASP-A2.1-EjsBasicosColecciones\\Ejercicio5\\Program.cs",
+              "RelativeToolTip": "Ejercicio5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T09:35:20.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\REPOS\\prog_asp_net\\Ejercicios\\ASP-A2.1-EjsBasicosColecciones-IrisPerez\\ASP-A2.1-EjsBasicosColecciones\\Ejercicio8\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio8\\Program.cs",
+              "ToolTip": "C:\\REPOS\\prog_asp_net\\Ejercicios\\ASP-A2.1-EjsBasicosColecciones-IrisPerez\\ASP-A2.1-EjsBasicosColecciones\\Ejercicio8\\Program.cs",
+              "RelativeToolTip": "Ejercicio8\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T09:43:11.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\REPOS\\prog_asp_net\\Ejercicios\\ASP-A2.1-EjsBasicosColecciones-IrisPerez\\ASP-A2.1-EjsBasicosColecciones\\Ejercicio7\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio7\\Program.cs",
+              "ToolTip": "C:\\REPOS\\prog_asp_net\\Ejercicios\\ASP-A2.1-EjsBasicosColecciones-IrisPerez\\ASP-A2.1-EjsBasicosColecciones\\Ejercicio7\\Program.cs",
+              "RelativeToolTip": "Ejercicio7\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T09:43:47.463Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
