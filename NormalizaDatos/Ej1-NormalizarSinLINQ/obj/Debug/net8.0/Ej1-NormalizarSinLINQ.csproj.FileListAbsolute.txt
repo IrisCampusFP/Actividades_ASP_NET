@@ -1,0 +1,15 @@
+C:\REPOS\desarrollo_de_interfaces\Examenes\NormalizaDatos\Ej1-NormalizarSinLINQ\bin\Debug\net8.0\Ej1-NormalizarSinLINQ.exe
+C:\REPOS\desarrollo_de_interfaces\Examenes\NormalizaDatos\Ej1-NormalizarSinLINQ\bin\Debug\net8.0\Ej1-NormalizarSinLINQ.deps.json
+C:\REPOS\desarrollo_de_interfaces\Examenes\NormalizaDatos\Ej1-NormalizarSinLINQ\bin\Debug\net8.0\Ej1-NormalizarSinLINQ.runtimeconfig.json
+C:\REPOS\desarrollo_de_interfaces\Examenes\NormalizaDatos\Ej1-NormalizarSinLINQ\bin\Debug\net8.0\Ej1-NormalizarSinLINQ.dll
+C:\REPOS\desarrollo_de_interfaces\Examenes\NormalizaDatos\Ej1-NormalizarSinLINQ\bin\Debug\net8.0\Ej1-NormalizarSinLINQ.pdb
+C:\REPOS\desarrollo_de_interfaces\Examenes\NormalizaDatos\Ej1-NormalizarSinLINQ\obj\Debug\net8.0\Ej1-NormalizarSinLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\REPOS\desarrollo_de_interfaces\Examenes\NormalizaDatos\Ej1-NormalizarSinLINQ\obj\Debug\net8.0\Ej1-NormalizarSinLINQ.AssemblyInfoInputs.cache
+C:\REPOS\desarrollo_de_interfaces\Examenes\NormalizaDatos\Ej1-NormalizarSinLINQ\obj\Debug\net8.0\Ej1-NormalizarSinLINQ.AssemblyInfo.cs
+C:\REPOS\desarrollo_de_interfaces\Examenes\NormalizaDatos\Ej1-NormalizarSinLINQ\obj\Debug\net8.0\Ej1-NormalizarSinLINQ.csproj.CoreCompileInputs.cache
+C:\REPOS\desarrollo_de_interfaces\Examenes\NormalizaDatos\Ej1-NormalizarSinLINQ\obj\Debug\net8.0\Ej1-NormalizarSinLINQ.sourcelink.json
+C:\REPOS\desarrollo_de_interfaces\Examenes\NormalizaDatos\Ej1-NormalizarSinLINQ\obj\Debug\net8.0\Ej1-NormalizarSinLINQ.dll
+C:\REPOS\desarrollo_de_interfaces\Examenes\NormalizaDatos\Ej1-NormalizarSinLINQ\obj\Debug\net8.0\refint\Ej1-NormalizarSinLINQ.dll
+C:\REPOS\desarrollo_de_interfaces\Examenes\NormalizaDatos\Ej1-NormalizarSinLINQ\obj\Debug\net8.0\Ej1-NormalizarSinLINQ.pdb
+C:\REPOS\desarrollo_de_interfaces\Examenes\NormalizaDatos\Ej1-NormalizarSinLINQ\obj\Debug\net8.0\Ej1-NormalizarSinLINQ.genruntimeconfig.cache
+C:\REPOS\desarrollo_de_interfaces\Examenes\NormalizaDatos\Ej1-NormalizarSinLINQ\obj\Debug\net8.0\ref\Ej1-NormalizarSinLINQ.dll

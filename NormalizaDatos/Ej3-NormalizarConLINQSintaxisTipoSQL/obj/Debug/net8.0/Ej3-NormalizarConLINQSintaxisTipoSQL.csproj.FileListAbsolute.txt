@@ -1,0 +1,15 @@
+C:\REPOS\desarrollo_de_interfaces\Examenes\NormalizaDatos\Ej3-NormalizarConLINQSintaxisTipoSQL\bin\Debug\net8.0\Ej3-NormalizarConLINQSintaxisTipoSQL.exe
+C:\REPOS\desarrollo_de_interfaces\Examenes\NormalizaDatos\Ej3-NormalizarConLINQSintaxisTipoSQL\bin\Debug\net8.0\Ej3-NormalizarConLINQSintaxisTipoSQL.deps.json
+C:\REPOS\desarrollo_de_interfaces\Examenes\NormalizaDatos\Ej3-NormalizarConLINQSintaxisTipoSQL\bin\Debug\net8.0\Ej3-NormalizarConLINQSintaxisTipoSQL.runtimeconfig.json
+C:\REPOS\desarrollo_de_interfaces\Examenes\NormalizaDatos\Ej3-NormalizarConLINQSintaxisTipoSQL\bin\Debug\net8.0\Ej3-NormalizarConLINQSintaxisTipoSQL.dll
+C:\REPOS\desarrollo_de_interfaces\Examenes\NormalizaDatos\Ej3-NormalizarConLINQSintaxisTipoSQL\bin\Debug\net8.0\Ej3-NormalizarConLINQSintaxisTipoSQL.pdb
+C:\REPOS\desarrollo_de_interfaces\Examenes\NormalizaDatos\Ej3-NormalizarConLINQSintaxisTipoSQL\obj\Debug\net8.0\Ej3-NormalizarConLINQSintaxisTipoSQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\REPOS\desarrollo_de_interfaces\Examenes\NormalizaDatos\Ej3-NormalizarConLINQSintaxisTipoSQL\obj\Debug\net8.0\Ej3-NormalizarConLINQSintaxisTipoSQL.AssemblyInfoInputs.cache
+C:\REPOS\desarrollo_de_interfaces\Examenes\NormalizaDatos\Ej3-NormalizarConLINQSintaxisTipoSQL\obj\Debug\net8.0\Ej3-NormalizarConLINQSintaxisTipoSQL.AssemblyInfo.cs
+C:\REPOS\desarrollo_de_interfaces\Examenes\NormalizaDatos\Ej3-NormalizarConLINQSintaxisTipoSQL\obj\Debug\net8.0\Ej3-NormalizarConLINQSintaxisTipoSQL.csproj.CoreCompileInputs.cache
+C:\REPOS\desarrollo_de_interfaces\Examenes\NormalizaDatos\Ej3-NormalizarConLINQSintaxisTipoSQL\obj\Debug\net8.0\Ej3-NormalizarConLINQSintaxisTipoSQL.sourcelink.json
+C:\REPOS\desarrollo_de_interfaces\Examenes\NormalizaDatos\Ej3-NormalizarConLINQSintaxisTipoSQL\obj\Debug\net8.0\Ej3-NormalizarConLINQSintaxisTipoSQL.dll
+C:\REPOS\desarrollo_de_interfaces\Examenes\NormalizaDatos\Ej3-NormalizarConLINQSintaxisTipoSQL\obj\Debug\net8.0\refint\Ej3-NormalizarConLINQSintaxisTipoSQL.dll
+C:\REPOS\desarrollo_de_interfaces\Examenes\NormalizaDatos\Ej3-NormalizarConLINQSintaxisTipoSQL\obj\Debug\net8.0\Ej3-NormalizarConLINQSintaxisTipoSQL.pdb
+C:\REPOS\desarrollo_de_interfaces\Examenes\NormalizaDatos\Ej3-NormalizarConLINQSintaxisTipoSQL\obj\Debug\net8.0\Ej3-NormalizarConLINQSintaxisTipoSQL.genruntimeconfig.cache
+C:\REPOS\desarrollo_de_interfaces\Examenes\NormalizaDatos\Ej3-NormalizarConLINQSintaxisTipoSQL\obj\Debug\net8.0\ref\Ej3-NormalizarConLINQSintaxisTipoSQL.dll

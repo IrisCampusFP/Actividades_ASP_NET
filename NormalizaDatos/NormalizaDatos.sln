@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36511.14 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej1-NormalizarSinLINQ", "Ej1-NormalizarSinLINQ\Ej1-NormalizarSinLINQ.csproj", "{395B9A0E-A84C-467F-9908-EAA41314F949}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej2-NormalizarConLINQSintaxisMetodo", "Ej2-NormalizarConLINQSintaxisMetodo\Ej2-NormalizarConLINQSintaxisMetodo.csproj", "{45865C3C-1E61-4D55-8C08-0DEEFDEFAC18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej3-NormalizarConLINQSintaxisTipoSQL", "Ej3-NormalizarConLINQSintaxisTipoSQL\Ej3-NormalizarConLINQSintaxisTipoSQL.csproj", "{5E49880C-FA82-45E4-A890-8403938B4647}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{395B9A0E-A84C-467F-9908-EAA41314F949}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{395B9A0E-A84C-467F-9908-EAA41314F949}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{395B9A0E-A84C-467F-9908-EAA41314F949}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{395B9A0E-A84C-467F-9908-EAA41314F949}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45865C3C-1E61-4D55-8C08-0DEEFDEFAC18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45865C3C-1E61-4D55-8C08-0DEEFDEFAC18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45865C3C-1E61-4D55-8C08-0DEEFDEFAC18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45865C3C-1E61-4D55-8C08-0DEEFDEFAC18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E49880C-FA82-45E4-A890-8403938B4647}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E49880C-FA82-45E4-A890-8403938B4647}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E49880C-FA82-45E4-A890-8403938B4647}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E49880C-FA82-45E4-A890-8403938B4647}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5974591-55C4-47CE-B0C5-DA6A4DBE52F3}
+	EndGlobalSection
+EndGlobal

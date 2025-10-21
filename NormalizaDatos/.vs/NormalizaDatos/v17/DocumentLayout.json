@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\REPOS\\prog_asp_net\\Ejercicios\\NormalizaDatos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45865C3C-1E61-4D55-8C08-0DEEFDEFAC18}|Ej2-NormalizarConLINQSintaxisMetodo\\Ej2-NormalizarConLINQSintaxisMetodo.csproj|c:\\repos\\prog_asp_net\\ejercicios\\normalizadatos\\ej2-normalizarconlinqsintaxismetodo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45865C3C-1E61-4D55-8C08-0DEEFDEFAC18}|Ej2-NormalizarConLINQSintaxisMetodo\\Ej2-NormalizarConLINQSintaxisMetodo.csproj|solutionrelative:ej2-normalizarconlinqsintaxismetodo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E49880C-FA82-45E4-A890-8403938B4647}|Ej3-NormalizarConLINQSintaxisTipoSQL\\Ej3-NormalizarConLINQSintaxisTipoSQL.csproj|c:\\repos\\prog_asp_net\\ejercicios\\normalizadatos\\ej3-normalizarconlinqsintaxistiposql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E49880C-FA82-45E4-A890-8403938B4647}|Ej3-NormalizarConLINQSintaxisTipoSQL\\Ej3-NormalizarConLINQSintaxisTipoSQL.csproj|solutionrelative:ej3-normalizarconlinqsintaxistiposql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395B9A0E-A84C-467F-9908-EAA41314F949}|Ej1-NormalizarSinLINQ\\Ej1-NormalizarSinLINQ.csproj|c:\\repos\\prog_asp_net\\ejercicios\\normalizadatos\\ej1-normalizarsinlinq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{395B9A0E-A84C-467F-9908-EAA41314F949}|Ej1-NormalizarSinLINQ\\Ej1-NormalizarSinLINQ.csproj|solutionrelative:ej1-normalizarsinlinq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45865C3C-1E61-4D55-8C08-0DEEFDEFAC18}|Ej2-NormalizarConLINQSintaxisMetodo\\Ej2-NormalizarConLINQSintaxisMetodo.csproj|c:\\repos\\prog_asp_net\\ejercicios\\normalizadatos\\ej2-normalizarconlinqsintaxismetodo\\equipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45865C3C-1E61-4D55-8C08-0DEEFDEFAC18}|Ej2-NormalizarConLINQSintaxisMetodo\\Ej2-NormalizarConLINQSintaxisMetodo.csproj|solutionrelative:ej2-normalizarconlinqsintaxismetodo\\equipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395B9A0E-A84C-467F-9908-EAA41314F949}|Ej1-NormalizarSinLINQ\\Ej1-NormalizarSinLINQ.csproj|c:\\repos\\prog_asp_net\\ejercicios\\normalizadatos\\ej1-normalizarsinlinq\\competicion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{395B9A0E-A84C-467F-9908-EAA41314F949}|Ej1-NormalizarSinLINQ\\Ej1-NormalizarSinLINQ.csproj|solutionrelative:ej1-normalizarsinlinq\\competicion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395B9A0E-A84C-467F-9908-EAA41314F949}|Ej1-NormalizarSinLINQ\\Ej1-NormalizarSinLINQ.csproj|c:\\repos\\prog_asp_net\\ejercicios\\normalizadatos\\ej1-normalizarsinlinq\\partido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{395B9A0E-A84C-467F-9908-EAA41314F949}|Ej1-NormalizarSinLINQ\\Ej1-NormalizarSinLINQ.csproj|solutionrelative:ej1-normalizarsinlinq\\partido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395B9A0E-A84C-467F-9908-EAA41314F949}|Ej1-NormalizarSinLINQ\\Ej1-NormalizarSinLINQ.csproj|c:\\repos\\prog_asp_net\\ejercicios\\normalizadatos\\ej1-normalizarsinlinq\\equipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{395B9A0E-A84C-467F-9908-EAA41314F949}|Ej1-NormalizarSinLINQ\\Ej1-NormalizarSinLINQ.csproj|solutionrelative:ej1-normalizarsinlinq\\equipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Competicion.cs",
+              "DocumentMoniker": "C:\\REPOS\\prog_asp_net\\Ejercicios\\NormalizaDatos\\Ej1-NormalizarSinLINQ\\Competicion.cs",
+              "RelativeDocumentMoniker": "Ej1-NormalizarSinLINQ\\Competicion.cs",
+              "ToolTip": "C:\\REPOS\\prog_asp_net\\Ejercicios\\NormalizaDatos\\Ej1-NormalizarSinLINQ\\Competicion.cs",
+              "RelativeToolTip": "Ej1-NormalizarSinLINQ\\Competicion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T07:17:25.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Equipo.cs",
+              "DocumentMoniker": "C:\\REPOS\\prog_asp_net\\Ejercicios\\NormalizaDatos\\Ej1-NormalizarSinLINQ\\Equipo.cs",
+              "RelativeDocumentMoniker": "Ej1-NormalizarSinLINQ\\Equipo.cs",
+              "ToolTip": "C:\\REPOS\\prog_asp_net\\Ejercicios\\NormalizaDatos\\Ej1-NormalizarSinLINQ\\Equipo.cs",
+              "RelativeToolTip": "Ej1-NormalizarSinLINQ\\Equipo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T07:15:56.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\REPOS\\prog_asp_net\\Ejercicios\\NormalizaDatos\\Ej3-NormalizarConLINQSintaxisTipoSQL\\Program.cs",
+              "RelativeDocumentMoniker": "Ej3-NormalizarConLINQSintaxisTipoSQL\\Program.cs",
+              "ToolTip": "C:\\REPOS\\prog_asp_net\\Ejercicios\\NormalizaDatos\\Ej3-NormalizarConLINQSintaxisTipoSQL\\Program.cs",
+              "RelativeToolTip": "Ej3-NormalizarConLINQSintaxisTipoSQL\\Program.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAgwDUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T07:11:52.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\REPOS\\prog_asp_net\\Ejercicios\\NormalizaDatos\\Ej1-NormalizarSinLINQ\\Program.cs",
+              "RelativeDocumentMoniker": "Ej1-NormalizarSinLINQ\\Program.cs",
+              "ToolTip": "C:\\REPOS\\prog_asp_net\\Ejercicios\\NormalizaDatos\\Ej1-NormalizarSinLINQ\\Program.cs",
+              "RelativeToolTip": "Ej1-NormalizarSinLINQ\\Program.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAgwFIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T07:09:58.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\REPOS\\prog_asp_net\\Ejercicios\\NormalizaDatos\\Ej2-NormalizarConLINQSintaxisMetodo\\Program.cs",
+              "RelativeDocumentMoniker": "Ej2-NormalizarConLINQSintaxisMetodo\\Program.cs",
+              "ToolTip": "C:\\REPOS\\prog_asp_net\\Ejercicios\\NormalizaDatos\\Ej2-NormalizarConLINQSintaxisMetodo\\Program.cs",
+              "RelativeToolTip": "Ej2-NormalizarConLINQSintaxisMetodo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T07:10:56.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Equipo.cs",
+              "DocumentMoniker": "C:\\REPOS\\prog_asp_net\\Ejercicios\\NormalizaDatos\\Ej2-NormalizarConLINQSintaxisMetodo\\Equipo.cs",
+              "RelativeDocumentMoniker": "Ej2-NormalizarConLINQSintaxisMetodo\\Equipo.cs",
+              "ToolTip": "C:\\REPOS\\prog_asp_net\\Ejercicios\\NormalizaDatos\\Ej2-NormalizarConLINQSintaxisMetodo\\Equipo.cs",
+              "RelativeToolTip": "Ej2-NormalizarConLINQSintaxisMetodo\\Equipo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T07:26:35.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Partido.cs",
+              "DocumentMoniker": "C:\\REPOS\\prog_asp_net\\Ejercicios\\NormalizaDatos\\Ej1-NormalizarSinLINQ\\Partido.cs",
+              "RelativeDocumentMoniker": "Ej1-NormalizarSinLINQ\\Partido.cs",
+              "ToolTip": "C:\\REPOS\\prog_asp_net\\Ejercicios\\NormalizaDatos\\Ej1-NormalizarSinLINQ\\Partido.cs",
+              "RelativeToolTip": "Ej1-NormalizarSinLINQ\\Partido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T07:18:25.849Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

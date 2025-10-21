@@ -1,0 +1,15 @@
+C:\REPOS\desarrollo_de_interfaces\Examenes\NormalizaDatos\Ej2-NormalizarConLINQSintaxisMetodo\bin\Debug\net8.0\Ej2-NormalizarConLINQSintaxisMetodo.exe
+C:\REPOS\desarrollo_de_interfaces\Examenes\NormalizaDatos\Ej2-NormalizarConLINQSintaxisMetodo\bin\Debug\net8.0\Ej2-NormalizarConLINQSintaxisMetodo.deps.json
+C:\REPOS\desarrollo_de_interfaces\Examenes\NormalizaDatos\Ej2-NormalizarConLINQSintaxisMetodo\bin\Debug\net8.0\Ej2-NormalizarConLINQSintaxisMetodo.runtimeconfig.json
+C:\REPOS\desarrollo_de_interfaces\Examenes\NormalizaDatos\Ej2-NormalizarConLINQSintaxisMetodo\bin\Debug\net8.0\Ej2-NormalizarConLINQSintaxisMetodo.dll
+C:\REPOS\desarrollo_de_interfaces\Examenes\NormalizaDatos\Ej2-NormalizarConLINQSintaxisMetodo\bin\Debug\net8.0\Ej2-NormalizarConLINQSintaxisMetodo.pdb
+C:\REPOS\desarrollo_de_interfaces\Examenes\NormalizaDatos\Ej2-NormalizarConLINQSintaxisMetodo\obj\Debug\net8.0\Ej2-NormalizarConLINQSintaxisMetodo.GeneratedMSBuildEditorConfig.editorconfig
+C:\REPOS\desarrollo_de_interfaces\Examenes\NormalizaDatos\Ej2-NormalizarConLINQSintaxisMetodo\obj\Debug\net8.0\Ej2-NormalizarConLINQSintaxisMetodo.AssemblyInfoInputs.cache
+C:\REPOS\desarrollo_de_interfaces\Examenes\NormalizaDatos\Ej2-NormalizarConLINQSintaxisMetodo\obj\Debug\net8.0\Ej2-NormalizarConLINQSintaxisMetodo.AssemblyInfo.cs
+C:\REPOS\desarrollo_de_interfaces\Examenes\NormalizaDatos\Ej2-NormalizarConLINQSintaxisMetodo\obj\Debug\net8.0\Ej2-NormalizarConLINQSintaxisMetodo.csproj.CoreCompileInputs.cache
+C:\REPOS\desarrollo_de_interfaces\Examenes\NormalizaDatos\Ej2-NormalizarConLINQSintaxisMetodo\obj\Debug\net8.0\Ej2-NormalizarConLINQSintaxisMetodo.sourcelink.json
+C:\REPOS\desarrollo_de_interfaces\Examenes\NormalizaDatos\Ej2-NormalizarConLINQSintaxisMetodo\obj\Debug\net8.0\Ej2-NormalizarConLINQSintaxisMetodo.dll
+C:\REPOS\desarrollo_de_interfaces\Examenes\NormalizaDatos\Ej2-NormalizarConLINQSintaxisMetodo\obj\Debug\net8.0\refint\Ej2-NormalizarConLINQSintaxisMetodo.dll
+C:\REPOS\desarrollo_de_interfaces\Examenes\NormalizaDatos\Ej2-NormalizarConLINQSintaxisMetodo\obj\Debug\net8.0\Ej2-NormalizarConLINQSintaxisMetodo.pdb
+C:\REPOS\desarrollo_de_interfaces\Examenes\NormalizaDatos\Ej2-NormalizarConLINQSintaxisMetodo\obj\Debug\net8.0\Ej2-NormalizarConLINQSintaxisMetodo.genruntimeconfig.cache
+C:\REPOS\desarrollo_de_interfaces\Examenes\NormalizaDatos\Ej2-NormalizarConLINQSintaxisMetodo\obj\Debug\net8.0\ref\Ej2-NormalizarConLINQSintaxisMetodo.dll
