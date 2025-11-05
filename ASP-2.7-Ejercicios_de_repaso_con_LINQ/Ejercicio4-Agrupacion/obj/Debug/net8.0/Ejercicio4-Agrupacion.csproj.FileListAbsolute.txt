@@ -1,0 +1,15 @@
+C:\REPOS\prog_asp_net\Ejercicios(SubirEnRepoPUBLICO)\ASP-2.7-Ejercicios_de_repaso_con_LINQ\Ejercicio4-Agrupacion\bin\Debug\net8.0\Ejercicio4-Agrupacion.exe
+C:\REPOS\prog_asp_net\Ejercicios(SubirEnRepoPUBLICO)\ASP-2.7-Ejercicios_de_repaso_con_LINQ\Ejercicio4-Agrupacion\bin\Debug\net8.0\Ejercicio4-Agrupacion.deps.json
+C:\REPOS\prog_asp_net\Ejercicios(SubirEnRepoPUBLICO)\ASP-2.7-Ejercicios_de_repaso_con_LINQ\Ejercicio4-Agrupacion\bin\Debug\net8.0\Ejercicio4-Agrupacion.runtimeconfig.json
+C:\REPOS\prog_asp_net\Ejercicios(SubirEnRepoPUBLICO)\ASP-2.7-Ejercicios_de_repaso_con_LINQ\Ejercicio4-Agrupacion\bin\Debug\net8.0\Ejercicio4-Agrupacion.dll
+C:\REPOS\prog_asp_net\Ejercicios(SubirEnRepoPUBLICO)\ASP-2.7-Ejercicios_de_repaso_con_LINQ\Ejercicio4-Agrupacion\bin\Debug\net8.0\Ejercicio4-Agrupacion.pdb
+C:\REPOS\prog_asp_net\Ejercicios(SubirEnRepoPUBLICO)\ASP-2.7-Ejercicios_de_repaso_con_LINQ\Ejercicio4-Agrupacion\obj\Debug\net8.0\Ejercicio4-Agrupacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\REPOS\prog_asp_net\Ejercicios(SubirEnRepoPUBLICO)\ASP-2.7-Ejercicios_de_repaso_con_LINQ\Ejercicio4-Agrupacion\obj\Debug\net8.0\Ejercicio4-Agrupacion.AssemblyInfoInputs.cache
+C:\REPOS\prog_asp_net\Ejercicios(SubirEnRepoPUBLICO)\ASP-2.7-Ejercicios_de_repaso_con_LINQ\Ejercicio4-Agrupacion\obj\Debug\net8.0\Ejercicio4-Agrupacion.AssemblyInfo.cs
+C:\REPOS\prog_asp_net\Ejercicios(SubirEnRepoPUBLICO)\ASP-2.7-Ejercicios_de_repaso_con_LINQ\Ejercicio4-Agrupacion\obj\Debug\net8.0\Ejercicio4-Agrupacion.csproj.CoreCompileInputs.cache
+C:\REPOS\prog_asp_net\Ejercicios(SubirEnRepoPUBLICO)\ASP-2.7-Ejercicios_de_repaso_con_LINQ\Ejercicio4-Agrupacion\obj\Debug\net8.0\Ejercicio4-Agrupacion.sourcelink.json
+C:\REPOS\prog_asp_net\Ejercicios(SubirEnRepoPUBLICO)\ASP-2.7-Ejercicios_de_repaso_con_LINQ\Ejercicio4-Agrupacion\obj\Debug\net8.0\Ejercicio4-Agrupacion.dll
+C:\REPOS\prog_asp_net\Ejercicios(SubirEnRepoPUBLICO)\ASP-2.7-Ejercicios_de_repaso_con_LINQ\Ejercicio4-Agrupacion\obj\Debug\net8.0\refint\Ejercicio4-Agrupacion.dll
+C:\REPOS\prog_asp_net\Ejercicios(SubirEnRepoPUBLICO)\ASP-2.7-Ejercicios_de_repaso_con_LINQ\Ejercicio4-Agrupacion\obj\Debug\net8.0\Ejercicio4-Agrupacion.pdb
+C:\REPOS\prog_asp_net\Ejercicios(SubirEnRepoPUBLICO)\ASP-2.7-Ejercicios_de_repaso_con_LINQ\Ejercicio4-Agrupacion\obj\Debug\net8.0\Ejercicio4-Agrupacion.genruntimeconfig.cache
+C:\REPOS\prog_asp_net\Ejercicios(SubirEnRepoPUBLICO)\ASP-2.7-Ejercicios_de_repaso_con_LINQ\Ejercicio4-Agrupacion\obj\Debug\net8.0\ref\Ejercicio4-Agrupacion.dll

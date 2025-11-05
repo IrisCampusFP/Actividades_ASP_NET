@@ -1,0 +1,15 @@
+C:\REPOS\prog_asp_net\Ejercicios(SubirEnRepoPUBLICO)\ASP-2.7-Ejercicios_de_repaso_con_LINQ\Ejercicio3-OrdenamientoBásico\bin\Debug\net8.0\Ejercicio3-OrdenamientoBásico.exe
+C:\REPOS\prog_asp_net\Ejercicios(SubirEnRepoPUBLICO)\ASP-2.7-Ejercicios_de_repaso_con_LINQ\Ejercicio3-OrdenamientoBásico\bin\Debug\net8.0\Ejercicio3-OrdenamientoBásico.deps.json
+C:\REPOS\prog_asp_net\Ejercicios(SubirEnRepoPUBLICO)\ASP-2.7-Ejercicios_de_repaso_con_LINQ\Ejercicio3-OrdenamientoBásico\bin\Debug\net8.0\Ejercicio3-OrdenamientoBásico.runtimeconfig.json
+C:\REPOS\prog_asp_net\Ejercicios(SubirEnRepoPUBLICO)\ASP-2.7-Ejercicios_de_repaso_con_LINQ\Ejercicio3-OrdenamientoBásico\bin\Debug\net8.0\Ejercicio3-OrdenamientoBásico.dll
+C:\REPOS\prog_asp_net\Ejercicios(SubirEnRepoPUBLICO)\ASP-2.7-Ejercicios_de_repaso_con_LINQ\Ejercicio3-OrdenamientoBásico\bin\Debug\net8.0\Ejercicio3-OrdenamientoBásico.pdb
+C:\REPOS\prog_asp_net\Ejercicios(SubirEnRepoPUBLICO)\ASP-2.7-Ejercicios_de_repaso_con_LINQ\Ejercicio3-OrdenamientoBásico\obj\Debug\net8.0\Ejercicio3-OrdenamientoBásico.GeneratedMSBuildEditorConfig.editorconfig
+C:\REPOS\prog_asp_net\Ejercicios(SubirEnRepoPUBLICO)\ASP-2.7-Ejercicios_de_repaso_con_LINQ\Ejercicio3-OrdenamientoBásico\obj\Debug\net8.0\Ejercicio3-OrdenamientoBásico.AssemblyInfoInputs.cache
+C:\REPOS\prog_asp_net\Ejercicios(SubirEnRepoPUBLICO)\ASP-2.7-Ejercicios_de_repaso_con_LINQ\Ejercicio3-OrdenamientoBásico\obj\Debug\net8.0\Ejercicio3-OrdenamientoBásico.AssemblyInfo.cs
+C:\REPOS\prog_asp_net\Ejercicios(SubirEnRepoPUBLICO)\ASP-2.7-Ejercicios_de_repaso_con_LINQ\Ejercicio3-OrdenamientoBásico\obj\Debug\net8.0\Ejercicio3-OrdenamientoBásico.csproj.CoreCompileInputs.cache
+C:\REPOS\prog_asp_net\Ejercicios(SubirEnRepoPUBLICO)\ASP-2.7-Ejercicios_de_repaso_con_LINQ\Ejercicio3-OrdenamientoBásico\obj\Debug\net8.0\Ejercicio3-OrdenamientoBásico.sourcelink.json
+C:\REPOS\prog_asp_net\Ejercicios(SubirEnRepoPUBLICO)\ASP-2.7-Ejercicios_de_repaso_con_LINQ\Ejercicio3-OrdenamientoBásico\obj\Debug\net8.0\Ejercicio3-OrdenamientoBásico.dll
+C:\REPOS\prog_asp_net\Ejercicios(SubirEnRepoPUBLICO)\ASP-2.7-Ejercicios_de_repaso_con_LINQ\Ejercicio3-OrdenamientoBásico\obj\Debug\net8.0\refint\Ejercicio3-OrdenamientoBásico.dll
+C:\REPOS\prog_asp_net\Ejercicios(SubirEnRepoPUBLICO)\ASP-2.7-Ejercicios_de_repaso_con_LINQ\Ejercicio3-OrdenamientoBásico\obj\Debug\net8.0\Ejercicio3-OrdenamientoBásico.pdb
+C:\REPOS\prog_asp_net\Ejercicios(SubirEnRepoPUBLICO)\ASP-2.7-Ejercicios_de_repaso_con_LINQ\Ejercicio3-OrdenamientoBásico\obj\Debug\net8.0\Ejercicio3-OrdenamientoBásico.genruntimeconfig.cache
+C:\REPOS\prog_asp_net\Ejercicios(SubirEnRepoPUBLICO)\ASP-2.7-Ejercicios_de_repaso_con_LINQ\Ejercicio3-OrdenamientoBásico\obj\Debug\net8.0\ref\Ejercicio3-OrdenamientoBásico.dll

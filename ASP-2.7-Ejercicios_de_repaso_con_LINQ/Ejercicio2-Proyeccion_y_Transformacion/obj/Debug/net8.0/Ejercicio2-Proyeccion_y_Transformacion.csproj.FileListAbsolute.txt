@@ -1,0 +1,15 @@
+C:\REPOS\prog_asp_net\Ejercicios(SubirEnRepoPUBLICO)\ASP-2.7-Ejercicios_de_repaso_con_LINQ\Ejercicio2-Proyeccion_y_Transformacion\bin\Debug\net8.0\Ejercicio2-Proyeccion_y_Transformacion.exe
+C:\REPOS\prog_asp_net\Ejercicios(SubirEnRepoPUBLICO)\ASP-2.7-Ejercicios_de_repaso_con_LINQ\Ejercicio2-Proyeccion_y_Transformacion\bin\Debug\net8.0\Ejercicio2-Proyeccion_y_Transformacion.deps.json
+C:\REPOS\prog_asp_net\Ejercicios(SubirEnRepoPUBLICO)\ASP-2.7-Ejercicios_de_repaso_con_LINQ\Ejercicio2-Proyeccion_y_Transformacion\bin\Debug\net8.0\Ejercicio2-Proyeccion_y_Transformacion.runtimeconfig.json
+C:\REPOS\prog_asp_net\Ejercicios(SubirEnRepoPUBLICO)\ASP-2.7-Ejercicios_de_repaso_con_LINQ\Ejercicio2-Proyeccion_y_Transformacion\bin\Debug\net8.0\Ejercicio2-Proyeccion_y_Transformacion.dll
+C:\REPOS\prog_asp_net\Ejercicios(SubirEnRepoPUBLICO)\ASP-2.7-Ejercicios_de_repaso_con_LINQ\Ejercicio2-Proyeccion_y_Transformacion\bin\Debug\net8.0\Ejercicio2-Proyeccion_y_Transformacion.pdb
+C:\REPOS\prog_asp_net\Ejercicios(SubirEnRepoPUBLICO)\ASP-2.7-Ejercicios_de_repaso_con_LINQ\Ejercicio2-Proyeccion_y_Transformacion\obj\Debug\net8.0\Ejercicio2-Proyeccion_y_Transformacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\REPOS\prog_asp_net\Ejercicios(SubirEnRepoPUBLICO)\ASP-2.7-Ejercicios_de_repaso_con_LINQ\Ejercicio2-Proyeccion_y_Transformacion\obj\Debug\net8.0\Ejercicio2-Proyeccion_y_Transformacion.AssemblyInfoInputs.cache
+C:\REPOS\prog_asp_net\Ejercicios(SubirEnRepoPUBLICO)\ASP-2.7-Ejercicios_de_repaso_con_LINQ\Ejercicio2-Proyeccion_y_Transformacion\obj\Debug\net8.0\Ejercicio2-Proyeccion_y_Transformacion.AssemblyInfo.cs
+C:\REPOS\prog_asp_net\Ejercicios(SubirEnRepoPUBLICO)\ASP-2.7-Ejercicios_de_repaso_con_LINQ\Ejercicio2-Proyeccion_y_Transformacion\obj\Debug\net8.0\Ejercicio2-Proyeccion_y_Transformacion.csproj.CoreCompileInputs.cache
+C:\REPOS\prog_asp_net\Ejercicios(SubirEnRepoPUBLICO)\ASP-2.7-Ejercicios_de_repaso_con_LINQ\Ejercicio2-Proyeccion_y_Transformacion\obj\Debug\net8.0\Ejercicio2-Proyeccion_y_Transformacion.sourcelink.json
+C:\REPOS\prog_asp_net\Ejercicios(SubirEnRepoPUBLICO)\ASP-2.7-Ejercicios_de_repaso_con_LINQ\Ejercicio2-Proyeccion_y_Transformacion\obj\Debug\net8.0\Ejercicio2-Proyeccion_y_Transformacion.dll
+C:\REPOS\prog_asp_net\Ejercicios(SubirEnRepoPUBLICO)\ASP-2.7-Ejercicios_de_repaso_con_LINQ\Ejercicio2-Proyeccion_y_Transformacion\obj\Debug\net8.0\refint\Ejercicio2-Proyeccion_y_Transformacion.dll
+C:\REPOS\prog_asp_net\Ejercicios(SubirEnRepoPUBLICO)\ASP-2.7-Ejercicios_de_repaso_con_LINQ\Ejercicio2-Proyeccion_y_Transformacion\obj\Debug\net8.0\Ejercicio2-Proyeccion_y_Transformacion.pdb
+C:\REPOS\prog_asp_net\Ejercicios(SubirEnRepoPUBLICO)\ASP-2.7-Ejercicios_de_repaso_con_LINQ\Ejercicio2-Proyeccion_y_Transformacion\obj\Debug\net8.0\Ejercicio2-Proyeccion_y_Transformacion.genruntimeconfig.cache
+C:\REPOS\prog_asp_net\Ejercicios(SubirEnRepoPUBLICO)\ASP-2.7-Ejercicios_de_repaso_con_LINQ\Ejercicio2-Proyeccion_y_Transformacion\obj\Debug\net8.0\ref\Ejercicio2-Proyeccion_y_Transformacion.dll

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\REPOS\\prog_asp_net\\Ejercicios(SubirEnRepoPUBLICO)\\ASP-2.7-Ejercicios_de_repaso_con_LINQ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9842FB70-7AEE-444F-AAD3-FE9DA0BD3415}|Ejercicio4-Agrupacion\\Ejercicio4-Agrupacion.csproj|c:\\repos\\prog_asp_net\\ejercicios(subirenrepopublico)\\asp-2.7-ejercicios_de_repaso_con_linq\\ejercicio4-agrupacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9842FB70-7AEE-444F-AAD3-FE9DA0BD3415}|Ejercicio4-Agrupacion\\Ejercicio4-Agrupacion.csproj|solutionrelative:ejercicio4-agrupacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91706BEE-1C74-4799-BF53-89D118FC7D61}|Ejercicio3-OrdenamientoB\u00E1sico\\Ejercicio3-OrdenamientoB\u00E1sico.csproj|c:\\repos\\prog_asp_net\\ejercicios(subirenrepopublico)\\asp-2.7-ejercicios_de_repaso_con_linq\\ejercicio3-ordenamientob\u00E1sico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91706BEE-1C74-4799-BF53-89D118FC7D61}|Ejercicio3-OrdenamientoB\u00E1sico\\Ejercicio3-OrdenamientoB\u00E1sico.csproj|solutionrelative:ejercicio3-ordenamientob\u00E1sico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4A9D79-49B8-4994-93F7-C148F05CE243}|Ejercicio2-Proyeccion_y_Transformacion\\Ejercicio2-Proyeccion_y_Transformacion.csproj|c:\\repos\\prog_asp_net\\ejercicios(subirenrepopublico)\\asp-2.7-ejercicios_de_repaso_con_linq\\ejercicio2-proyeccion_y_transformacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4A9D79-49B8-4994-93F7-C148F05CE243}|Ejercicio2-Proyeccion_y_Transformacion\\Ejercicio2-Proyeccion_y_Transformacion.csproj|solutionrelative:ejercicio2-proyeccion_y_transformacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C6AD62-A4F9-4786-A25A-EB61910C419A}|Ejercicio1-FiltradoSimple\\Ejercicio1-FiltradoSimple.csproj|c:\\repos\\prog_asp_net\\ejercicios(subirenrepopublico)\\asp-2.7-ejercicios_de_repaso_con_linq\\ejercicio1-filtradosimple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2C6AD62-A4F9-4786-A25A-EB61910C419A}|Ejercicio1-FiltradoSimple\\Ejercicio1-FiltradoSimple.csproj|solutionrelative:ejercicio1-filtradosimple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\REPOS\\prog_asp_net\\Ejercicios(SubirEnRepoPUBLICO)\\ASP-2.7-Ejercicios_de_repaso_con_LINQ\\Ejercicio4-Agrupacion\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio4-Agrupacion\\Program.cs",
+              "ToolTip": "C:\\REPOS\\prog_asp_net\\Ejercicios(SubirEnRepoPUBLICO)\\ASP-2.7-Ejercicios_de_repaso_con_LINQ\\Ejercicio4-Agrupacion\\Program.cs",
+              "RelativeToolTip": "Ejercicio4-Agrupacion\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAcwC8AAAC3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T10:24:00.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\REPOS\\prog_asp_net\\Ejercicios(SubirEnRepoPUBLICO)\\ASP-2.7-Ejercicios_de_repaso_con_LINQ\\Ejercicio3-OrdenamientoB\u00E1sico\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio3-OrdenamientoB\u00E1sico\\Program.cs",
+              "ToolTip": "C:\\REPOS\\prog_asp_net\\Ejercicios(SubirEnRepoPUBLICO)\\ASP-2.7-Ejercicios_de_repaso_con_LINQ\\Ejercicio3-OrdenamientoB\u00E1sico\\Program.cs",
+              "RelativeToolTip": "Ejercicio3-OrdenamientoB\u00E1sico\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T09:30:50.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\REPOS\\prog_asp_net\\Ejercicios(SubirEnRepoPUBLICO)\\ASP-2.7-Ejercicios_de_repaso_con_LINQ\\Ejercicio2-Proyeccion_y_Transformacion\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio2-Proyeccion_y_Transformacion\\Program.cs",
+              "ToolTip": "C:\\REPOS\\prog_asp_net\\Ejercicios(SubirEnRepoPUBLICO)\\ASP-2.7-Ejercicios_de_repaso_con_LINQ\\Ejercicio2-Proyeccion_y_Transformacion\\Program.cs",
+              "RelativeToolTip": "Ejercicio2-Proyeccion_y_Transformacion\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T09:18:43.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\REPOS\\prog_asp_net\\Ejercicios(SubirEnRepoPUBLICO)\\ASP-2.7-Ejercicios_de_repaso_con_LINQ\\Ejercicio1-FiltradoSimple\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio1-FiltradoSimple\\Program.cs",
+              "ToolTip": "C:\\REPOS\\prog_asp_net\\Ejercicios(SubirEnRepoPUBLICO)\\ASP-2.7-Ejercicios_de_repaso_con_LINQ\\Ejercicio1-FiltradoSimple\\Program.cs",
+              "RelativeToolTip": "Ejercicio1-FiltradoSimple\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T08:49:19.709Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36511.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebMVCSencilla", "WebMVCSencilla\WebMVCSencilla.csproj", "{7CA883F6-B471-4574-A975-A28602A3E247}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebMVCRUDSencilla", "WebMVCRUDSencilla\WebMVCRUDSencilla.csproj", "{3B1490CC-C8AF-4FE0-9637-A672C1CE3833}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CA883F6-B471-4574-A975-A28602A3E247}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CA883F6-B471-4574-A975-A28602A3E247}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CA883F6-B471-4574-A975-A28602A3E247}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CA883F6-B471-4574-A975-A28602A3E247}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B1490CC-C8AF-4FE0-9637-A672C1CE3833}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B1490CC-C8AF-4FE0-9637-A672C1CE3833}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B1490CC-C8AF-4FE0-9637-A672C1CE3833}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B1490CC-C8AF-4FE0-9637-A672C1CE3833}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40F61AC7-995E-4B14-AA5F-4E5B3DD1A848}
+	EndGlobalSection
+EndGlobal

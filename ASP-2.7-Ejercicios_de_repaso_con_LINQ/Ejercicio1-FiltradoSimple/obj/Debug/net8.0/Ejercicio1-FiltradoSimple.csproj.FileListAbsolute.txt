@@ -1,0 +1,15 @@
+C:\REPOS\prog_asp_net\Ejercicios(SubirEnRepoPUBLICO)\ASP-2.7-Ejercicios_de_repaso_con_LINQ\Ejercicio1-FiltradoSimple\obj\Debug\net8.0\Ejercicio1-FiltradoSimple.GeneratedMSBuildEditorConfig.editorconfig
+C:\REPOS\prog_asp_net\Ejercicios(SubirEnRepoPUBLICO)\ASP-2.7-Ejercicios_de_repaso_con_LINQ\Ejercicio1-FiltradoSimple\obj\Debug\net8.0\Ejercicio1-FiltradoSimple.AssemblyInfoInputs.cache
+C:\REPOS\prog_asp_net\Ejercicios(SubirEnRepoPUBLICO)\ASP-2.7-Ejercicios_de_repaso_con_LINQ\Ejercicio1-FiltradoSimple\obj\Debug\net8.0\Ejercicio1-FiltradoSimple.AssemblyInfo.cs
+C:\REPOS\prog_asp_net\Ejercicios(SubirEnRepoPUBLICO)\ASP-2.7-Ejercicios_de_repaso_con_LINQ\Ejercicio1-FiltradoSimple\obj\Debug\net8.0\Ejercicio1-FiltradoSimple.csproj.CoreCompileInputs.cache
+C:\REPOS\prog_asp_net\Ejercicios(SubirEnRepoPUBLICO)\ASP-2.7-Ejercicios_de_repaso_con_LINQ\Ejercicio1-FiltradoSimple\obj\Debug\net8.0\Ejercicio1-FiltradoSimple.sourcelink.json
+C:\REPOS\prog_asp_net\Ejercicios(SubirEnRepoPUBLICO)\ASP-2.7-Ejercicios_de_repaso_con_LINQ\Ejercicio1-FiltradoSimple\bin\Debug\net8.0\Ejercicio1-FiltradoSimple.exe
+C:\REPOS\prog_asp_net\Ejercicios(SubirEnRepoPUBLICO)\ASP-2.7-Ejercicios_de_repaso_con_LINQ\Ejercicio1-FiltradoSimple\bin\Debug\net8.0\Ejercicio1-FiltradoSimple.deps.json
+C:\REPOS\prog_asp_net\Ejercicios(SubirEnRepoPUBLICO)\ASP-2.7-Ejercicios_de_repaso_con_LINQ\Ejercicio1-FiltradoSimple\bin\Debug\net8.0\Ejercicio1-FiltradoSimple.runtimeconfig.json
+C:\REPOS\prog_asp_net\Ejercicios(SubirEnRepoPUBLICO)\ASP-2.7-Ejercicios_de_repaso_con_LINQ\Ejercicio1-FiltradoSimple\bin\Debug\net8.0\Ejercicio1-FiltradoSimple.dll
+C:\REPOS\prog_asp_net\Ejercicios(SubirEnRepoPUBLICO)\ASP-2.7-Ejercicios_de_repaso_con_LINQ\Ejercicio1-FiltradoSimple\bin\Debug\net8.0\Ejercicio1-FiltradoSimple.pdb
+C:\REPOS\prog_asp_net\Ejercicios(SubirEnRepoPUBLICO)\ASP-2.7-Ejercicios_de_repaso_con_LINQ\Ejercicio1-FiltradoSimple\obj\Debug\net8.0\Ejercicio1-FiltradoSimple.dll
+C:\REPOS\prog_asp_net\Ejercicios(SubirEnRepoPUBLICO)\ASP-2.7-Ejercicios_de_repaso_con_LINQ\Ejercicio1-FiltradoSimple\obj\Debug\net8.0\refint\Ejercicio1-FiltradoSimple.dll
+C:\REPOS\prog_asp_net\Ejercicios(SubirEnRepoPUBLICO)\ASP-2.7-Ejercicios_de_repaso_con_LINQ\Ejercicio1-FiltradoSimple\obj\Debug\net8.0\Ejercicio1-FiltradoSimple.pdb
+C:\REPOS\prog_asp_net\Ejercicios(SubirEnRepoPUBLICO)\ASP-2.7-Ejercicios_de_repaso_con_LINQ\Ejercicio1-FiltradoSimple\obj\Debug\net8.0\Ejercicio1-FiltradoSimple.genruntimeconfig.cache
+C:\REPOS\prog_asp_net\Ejercicios(SubirEnRepoPUBLICO)\ASP-2.7-Ejercicios_de_repaso_con_LINQ\Ejercicio1-FiltradoSimple\obj\Debug\net8.0\ref\Ejercicio1-FiltradoSimple.dll
