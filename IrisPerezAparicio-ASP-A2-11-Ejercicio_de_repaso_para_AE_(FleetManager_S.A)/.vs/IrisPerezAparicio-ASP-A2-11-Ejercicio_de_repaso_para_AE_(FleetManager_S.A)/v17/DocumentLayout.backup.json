@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "W:\\REPOS\\prog_asp_net\\EjerciciosNoPublicos\\IrisPerezAparicio-ASP-A2-11-Ejercicio_de_repaso_para_AE_(FleetManager_S.A)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C17B444-1D5D-42AB-A559-B179B2392645}|IrisPerezAparicio-ASP-A2-11-Ejercicio_de_repaso_para_AE_(FleetManager_S.A).csproj|w:\\repos\\prog_asp_net\\ejerciciosnopublicos\\irisperezaparicio-asp-a2-11-ejercicio_de_repaso_para_ae_(fleetmanager_s.a)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C17B444-1D5D-42AB-A559-B179B2392645}|IrisPerezAparicio-ASP-A2-11-Ejercicio_de_repaso_para_AE_(FleetManager_S.A).csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C17B444-1D5D-42AB-A559-B179B2392645}|IrisPerezAparicio-FleetManager_S.A-ASP-A2-11-Ejercicio_de_repaso_para_AE.csproj|w:\\repos\\prog_asp_net\\ejerciciosnopublicos\\irisperezaparicio-asp-a2-11-ejercicio_de_repaso_para_ae_(fleetmanager_s.a)\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C17B444-1D5D-42AB-A559-B179B2392645}|IrisPerezAparicio-FleetManager_S.A-ASP-A2-11-Ejercicio_de_repaso_para_AE.csproj|solutionrelative:vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C17B444-1D5D-42AB-A559-B179B2392645}|IrisPerezAparicio-FleetManager_S.A-ASP-A2-11-Ejercicio_de_repaso_para_AE.csproj|w:\\repos\\prog_asp_net\\ejerciciosnopublicos\\irisperezaparicio-asp-a2-11-ejercicio_de_repaso_para_ae_(fleetmanager_s.a)\\camion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C17B444-1D5D-42AB-A559-B179B2392645}|IrisPerezAparicio-FleetManager_S.A-ASP-A2-11-Ejercicio_de_repaso_para_AE.csproj|solutionrelative:camion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C17B444-1D5D-42AB-A559-B179B2392645}|IrisPerezAparicio-FleetManager_S.A-ASP-A2-11-Ejercicio_de_repaso_para_AE.csproj|w:\\repos\\prog_asp_net\\ejerciciosnopublicos\\irisperezaparicio-asp-a2-11-ejercicio_de_repaso_para_ae_(fleetmanager_s.a)\\autobus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C17B444-1D5D-42AB-A559-B179B2392645}|IrisPerezAparicio-FleetManager_S.A-ASP-A2-11-Ejercicio_de_repaso_para_AE.csproj|solutionrelative:autobus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Camion.cs",
+              "DocumentMoniker": "W:\\REPOS\\prog_asp_net\\EjerciciosNoPublicos\\IrisPerezAparicio-ASP-A2-11-Ejercicio_de_repaso_para_AE_(FleetManager_S.A)\\Camion.cs",
+              "RelativeDocumentMoniker": "Camion.cs",
+              "ToolTip": "W:\\REPOS\\prog_asp_net\\EjerciciosNoPublicos\\IrisPerezAparicio-ASP-A2-11-Ejercicio_de_repaso_para_AE_(FleetManager_S.A)\\Camion.cs",
+              "RelativeToolTip": "Camion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T18:02:35.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Autobus.cs",
+              "DocumentMoniker": "W:\\REPOS\\prog_asp_net\\EjerciciosNoPublicos\\IrisPerezAparicio-ASP-A2-11-Ejercicio_de_repaso_para_AE_(FleetManager_S.A)\\Autobus.cs",
+              "RelativeDocumentMoniker": "Autobus.cs",
+              "ToolTip": "W:\\REPOS\\prog_asp_net\\EjerciciosNoPublicos\\IrisPerezAparicio-ASP-A2-11-Ejercicio_de_repaso_para_AE_(FleetManager_S.A)\\Autobus.cs",
+              "RelativeToolTip": "Autobus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T18:01:57.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vehiculo.cs",
+              "DocumentMoniker": "W:\\REPOS\\prog_asp_net\\EjerciciosNoPublicos\\IrisPerezAparicio-ASP-A2-11-Ejercicio_de_repaso_para_AE_(FleetManager_S.A)\\Vehiculo.cs",
+              "RelativeDocumentMoniker": "Vehiculo.cs",
+              "ToolTip": "W:\\REPOS\\prog_asp_net\\EjerciciosNoPublicos\\IrisPerezAparicio-ASP-A2-11-Ejercicio_de_repaso_para_AE_(FleetManager_S.A)\\Vehiculo.cs",
+              "RelativeToolTip": "Vehiculo.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T18:00:45.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "W:\\REPOS\\prog_asp_net\\EjerciciosNoPublicos\\IrisPerezAparicio-ASP-A2-11-Ejercicio_de_repaso_para_AE_(FleetManager_S.A)\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "W:\\REPOS\\prog_asp_net\\EjerciciosNoPublicos\\IrisPerezAparicio-ASP-A2-11-Ejercicio_de_repaso_para_AE_(FleetManager_S.A)\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAD4v2wAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T17:48:20.988Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

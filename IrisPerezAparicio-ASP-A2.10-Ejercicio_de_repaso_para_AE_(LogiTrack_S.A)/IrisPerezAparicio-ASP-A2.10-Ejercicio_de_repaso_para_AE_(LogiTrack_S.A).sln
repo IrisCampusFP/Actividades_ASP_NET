@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IrisPerezAparicio-LogiTrack_S.A-ASP-A2.10-Ejercicio_de_repaso_para_AE", "IrisPerezAparicio-LogiTrack_S.A-ASP-A2.10-Ejercicio_de_repaso_para_AE.csproj", "{61AC572F-2155-4898-9143-C7686590F17F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61AC572F-2155-4898-9143-C7686590F17F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61AC572F-2155-4898-9143-C7686590F17F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61AC572F-2155-4898-9143-C7686590F17F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61AC572F-2155-4898-9143-C7686590F17F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1593C00-9485-4D05-BF07-4F294FD4ADF5}
+	EndGlobalSection
+EndGlobal

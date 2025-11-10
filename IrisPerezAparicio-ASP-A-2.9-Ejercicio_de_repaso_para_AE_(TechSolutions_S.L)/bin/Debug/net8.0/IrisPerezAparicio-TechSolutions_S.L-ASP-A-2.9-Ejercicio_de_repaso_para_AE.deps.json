@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "IrisPerezAparicio-TechSolutions_S.L-ASP-A-2.9-Ejercicio_de_repaso_para_AE/1.0.0": {
+        "runtime": {
+          "IrisPerezAparicio-TechSolutions_S.L-ASP-A-2.9-Ejercicio_de_repaso_para_AE.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IrisPerezAparicio-TechSolutions_S.L-ASP-A-2.9-Ejercicio_de_repaso_para_AE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

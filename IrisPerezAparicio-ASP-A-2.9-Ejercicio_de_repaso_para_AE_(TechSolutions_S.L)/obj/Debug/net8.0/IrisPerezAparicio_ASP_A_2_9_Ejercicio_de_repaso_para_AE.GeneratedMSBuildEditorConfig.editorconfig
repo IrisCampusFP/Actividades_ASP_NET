@@ -1,0 +1,15 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = IrisPerezAparicio_ASP_A_2._9_Ejercicio_de_repaso_para_AE__TechSolutions_S.L_
+build_property.ProjectDir = W:\REPOS\prog_asp_net\EjerciciosNoPublicos\IrisPerezAparicio-ASP-A-2.9-Ejercicio_de_repaso_para_AE_(TechSolutions_S.L)\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 

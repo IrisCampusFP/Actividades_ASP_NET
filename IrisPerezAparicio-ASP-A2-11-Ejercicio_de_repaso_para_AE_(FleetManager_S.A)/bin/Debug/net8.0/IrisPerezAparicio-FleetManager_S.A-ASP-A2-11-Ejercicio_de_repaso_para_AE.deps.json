@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "IrisPerezAparicio-FleetManager_S.A-ASP-A2-11-Ejercicio_de_repaso_para_AE/1.0.0": {
+        "runtime": {
+          "IrisPerezAparicio-FleetManager_S.A-ASP-A2-11-Ejercicio_de_repaso_para_AE.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IrisPerezAparicio-FleetManager_S.A-ASP-A2-11-Ejercicio_de_repaso_para_AE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
