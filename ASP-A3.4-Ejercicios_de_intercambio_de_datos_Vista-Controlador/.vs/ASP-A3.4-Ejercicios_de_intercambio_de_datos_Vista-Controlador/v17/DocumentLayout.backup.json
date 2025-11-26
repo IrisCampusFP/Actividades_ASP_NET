@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "W:\\REPOS\\prog_asp_net\\EjerciciosNoPublicos\\ASP-A3.4-Ejercicios_de_intercambio_de_datos_Vista-Controlador\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47EC122A-A48A-0709-D855-47C0F7522ABB}|Ejercicio1.2\\Ejercicio1.2.csproj|w:\\repos\\prog_asp_net\\ejerciciosnopublicos\\asp-a3.4-ejercicios_de_intercambio_de_datos_vista-controlador\\ejercicio1.2\\views\\home\\perfil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47EC122A-A48A-0709-D855-47C0F7522ABB}|Ejercicio1.2\\Ejercicio1.2.csproj|solutionrelative:ejercicio1.2\\views\\home\\perfil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47EC122A-A48A-0709-D855-47C0F7522ABB}|Ejercicio1.2\\Ejercicio1.2.csproj|w:\\repos\\prog_asp_net\\ejerciciosnopublicos\\asp-a3.4-ejercicios_de_intercambio_de_datos_vista-controlador\\ejercicio1.2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47EC122A-A48A-0709-D855-47C0F7522ABB}|Ejercicio1.2\\Ejercicio1.2.csproj|solutionrelative:ejercicio1.2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2231E1F7-9923-4D8D-89D2-26BFB6A7E56E}|Ejercicio1.1\\Ejercicio1.1.csproj|w:\\repos\\prog_asp_net\\ejerciciosnopublicos\\asp-a3.4-ejercicios_de_intercambio_de_datos_vista-controlador\\ejercicio1.1\\views\\home\\perfil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2231E1F7-9923-4D8D-89D2-26BFB6A7E56E}|Ejercicio1.1\\Ejercicio1.1.csproj|solutionrelative:ejercicio1.1\\views\\home\\perfil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2231E1F7-9923-4D8D-89D2-26BFB6A7E56E}|Ejercicio1.1\\Ejercicio1.1.csproj|w:\\repos\\prog_asp_net\\ejerciciosnopublicos\\asp-a3.4-ejercicios_de_intercambio_de_datos_vista-controlador\\ejercicio1.1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2231E1F7-9923-4D8D-89D2-26BFB6A7E56E}|Ejercicio1.1\\Ejercicio1.1.csproj|solutionrelative:ejercicio1.1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2231E1F7-9923-4D8D-89D2-26BFB6A7E56E}|Ejercicio1.1\\Ejercicio1.1.csproj|w:\\repos\\prog_asp_net\\ejerciciosnopublicos\\asp-a3.4-ejercicios_de_intercambio_de_datos_vista-controlador\\ejercicio1.1\\ejercicio1.1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2231E1F7-9923-4D8D-89D2-26BFB6A7E56E}|Ejercicio1.1\\Ejercicio1.1.csproj|solutionrelative:ejercicio1.1\\ejercicio1.1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47EC122A-A48A-0709-D855-47C0F7522ABB}|Ejercicio1.2\\Ejercicio1.2.csproj|w:\\repos\\prog_asp_net\\ejerciciosnopublicos\\asp-a3.4-ejercicios_de_intercambio_de_datos_vista-controlador\\ejercicio1.2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47EC122A-A48A-0709-D855-47C0F7522ABB}|Ejercicio1.2\\Ejercicio1.2.csproj|solutionrelative:ejercicio1.2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2231E1F7-9923-4D8D-89D2-26BFB6A7E56E}|Ejercicio1.1\\Ejercicio1.1.csproj|w:\\repos\\prog_asp_net\\ejerciciosnopublicos\\asp-a3.4-ejercicios_de_intercambio_de_datos_vista-controlador\\ejercicio1.1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2231E1F7-9923-4D8D-89D2-26BFB6A7E56E}|Ejercicio1.1\\Ejercicio1.1.csproj|solutionrelative:ejercicio1.1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2231E1F7-9923-4D8D-89D2-26BFB6A7E56E}|Ejercicio1.1\\Ejercicio1.1.csproj|w:\\repos\\prog_asp_net\\ejerciciosnopublicos\\asp-a3.4-ejercicios_de_intercambio_de_datos_vista-controlador\\ejercicio1.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2231E1F7-9923-4D8D-89D2-26BFB6A7E56E}|Ejercicio1.1\\Ejercicio1.1.csproj|solutionrelative:ejercicio1.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2231E1F7-9923-4D8D-89D2-26BFB6A7E56E}|Ejercicio1.1\\Ejercicio1.1.csproj|w:\\repos\\prog_asp_net\\ejerciciosnopublicos\\asp-a3.4-ejercicios_de_intercambio_de_datos_vista-controlador\\ejercicio1.1\\models\\perfilviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2231E1F7-9923-4D8D-89D2-26BFB6A7E56E}|Ejercicio1.1\\Ejercicio1.1.csproj|solutionrelative:ejercicio1.1\\models\\perfilviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2231E1F7-9923-4D8D-89D2-26BFB6A7E56E}|Ejercicio1.1\\Ejercicio1.1.csproj|w:\\repos\\prog_asp_net\\ejerciciosnopublicos\\asp-a3.4-ejercicios_de_intercambio_de_datos_vista-controlador\\ejercicio1.1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2231E1F7-9923-4D8D-89D2-26BFB6A7E56E}|Ejercicio1.1\\Ejercicio1.1.csproj|solutionrelative:ejercicio1.1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2231E1F7-9923-4D8D-89D2-26BFB6A7E56E}|Ejercicio1.1\\Ejercicio1.1.csproj|w:\\repos\\prog_asp_net\\ejerciciosnopublicos\\asp-a3.4-ejercicios_de_intercambio_de_datos_vista-controlador\\ejercicio1.1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2231E1F7-9923-4D8D-89D2-26BFB6A7E56E}|Ejercicio1.1\\Ejercicio1.1.csproj|solutionrelative:ejercicio1.1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2231E1F7-9923-4D8D-89D2-26BFB6A7E56E}|Ejercicio1.1\\Ejercicio1.1.csproj|w:\\repos\\prog_asp_net\\ejerciciosnopublicos\\asp-a3.4-ejercicios_de_intercambio_de_datos_vista-controlador\\ejercicio1.1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2231E1F7-9923-4D8D-89D2-26BFB6A7E56E}|Ejercicio1.1\\Ejercicio1.1.csproj|solutionrelative:ejercicio1.1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "W:\\REPOS\\prog_asp_net\\EjerciciosNoPublicos\\ASP-A3.4-Ejercicios_de_intercambio_de_datos_Vista-Controlador\\Ejercicio1.2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Ejercicio1.2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "W:\\REPOS\\prog_asp_net\\EjerciciosNoPublicos\\ASP-A3.4-Ejercicios_de_intercambio_de_datos_Vista-Controlador\\Ejercicio1.2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Ejercicio1.2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-26T20:11:10.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ejercicio1.1.csproj",
+              "DocumentMoniker": "W:\\REPOS\\prog_asp_net\\EjerciciosNoPublicos\\ASP-A3.4-Ejercicios_de_intercambio_de_datos_Vista-Controlador\\Ejercicio1.1\\Ejercicio1.1.csproj",
+              "RelativeDocumentMoniker": "Ejercicio1.1\\Ejercicio1.1.csproj",
+              "ToolTip": "W:\\REPOS\\prog_asp_net\\EjerciciosNoPublicos\\ASP-A3.4-Ejercicios_de_intercambio_de_datos_Vista-Controlador\\Ejercicio1.1\\Ejercicio1.1.csproj",
+              "RelativeToolTip": "Ejercicio1.1\\Ejercicio1.1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-26T20:11:05.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "W:\\REPOS\\prog_asp_net\\EjerciciosNoPublicos\\ASP-A3.4-Ejercicios_de_intercambio_de_datos_Vista-Controlador\\Ejercicio1.2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Ejercicio1.2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "W:\\REPOS\\prog_asp_net\\EjerciciosNoPublicos\\ASP-A3.4-Ejercicios_de_intercambio_de_datos_Vista-Controlador\\Ejercicio1.2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Ejercicio1.2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-26T20:09:42.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Perfil.cshtml",
+              "DocumentMoniker": "W:\\REPOS\\prog_asp_net\\EjerciciosNoPublicos\\ASP-A3.4-Ejercicios_de_intercambio_de_datos_Vista-Controlador\\Ejercicio1.2\\Views\\Home\\Perfil.cshtml",
+              "RelativeDocumentMoniker": "Ejercicio1.2\\Views\\Home\\Perfil.cshtml",
+              "ToolTip": "W:\\REPOS\\prog_asp_net\\EjerciciosNoPublicos\\ASP-A3.4-Ejercicios_de_intercambio_de_datos_Vista-Controlador\\Ejercicio1.2\\Views\\Home\\Perfil.cshtml",
+              "RelativeToolTip": "Ejercicio1.2\\Views\\Home\\Perfil.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-26T20:09:04.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "W:\\REPOS\\prog_asp_net\\EjerciciosNoPublicos\\ASP-A3.4-Ejercicios_de_intercambio_de_datos_Vista-Controlador\\Ejercicio1.1\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio1.1\\Program.cs",
+              "ToolTip": "W:\\REPOS\\prog_asp_net\\EjerciciosNoPublicos\\ASP-A3.4-Ejercicios_de_intercambio_de_datos_Vista-Controlador\\Ejercicio1.1\\Program.cs",
+              "RelativeToolTip": "Ejercicio1.1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T15:20:13.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Perfil.cshtml",
+              "DocumentMoniker": "W:\\REPOS\\prog_asp_net\\EjerciciosNoPublicos\\ASP-A3.4-Ejercicios_de_intercambio_de_datos_Vista-Controlador\\Ejercicio1.1\\Views\\Home\\Perfil.cshtml",
+              "RelativeDocumentMoniker": "Ejercicio1.1\\Views\\Home\\Perfil.cshtml",
+              "ToolTip": "W:\\REPOS\\prog_asp_net\\EjerciciosNoPublicos\\ASP-A3.4-Ejercicios_de_intercambio_de_datos_Vista-Controlador\\Ejercicio1.1\\Views\\Home\\Perfil.cshtml",
+              "RelativeToolTip": "Ejercicio1.1\\Views\\Home\\Perfil.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-26T15:26:08.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PerfilViewModel.cs",
+              "DocumentMoniker": "W:\\REPOS\\prog_asp_net\\EjerciciosNoPublicos\\ASP-A3.4-Ejercicios_de_intercambio_de_datos_Vista-Controlador\\Ejercicio1.1\\Models\\PerfilViewModel.cs",
+              "RelativeDocumentMoniker": "Ejercicio1.1\\Models\\PerfilViewModel.cs",
+              "ToolTip": "W:\\REPOS\\prog_asp_net\\EjerciciosNoPublicos\\ASP-A3.4-Ejercicios_de_intercambio_de_datos_Vista-Controlador\\Ejercicio1.1\\Models\\PerfilViewModel.cs",
+              "RelativeToolTip": "Ejercicio1.1\\Models\\PerfilViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T09:24:55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "W:\\REPOS\\prog_asp_net\\EjerciciosNoPublicos\\ASP-A3.4-Ejercicios_de_intercambio_de_datos_Vista-Controlador\\Ejercicio1.1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Ejercicio1.1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "W:\\REPOS\\prog_asp_net\\EjerciciosNoPublicos\\ASP-A3.4-Ejercicios_de_intercambio_de_datos_Vista-Controlador\\Ejercicio1.1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Ejercicio1.1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-26T09:23:41.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "W:\\REPOS\\prog_asp_net\\EjerciciosNoPublicos\\ASP-A3.4-Ejercicios_de_intercambio_de_datos_Vista-Controlador\\Ejercicio1.1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Ejercicio1.1\\Controllers\\HomeController.cs",
+              "ToolTip": "W:\\REPOS\\prog_asp_net\\EjerciciosNoPublicos\\ASP-A3.4-Ejercicios_de_intercambio_de_datos_Vista-Controlador\\Ejercicio1.1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Ejercicio1.1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAhwCMAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T09:45:51.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "W:\\REPOS\\prog_asp_net\\EjerciciosNoPublicos\\ASP-A3.4-Ejercicios_de_intercambio_de_datos_Vista-Controlador\\Ejercicio1.1\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Ejercicio1.1\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "W:\\REPOS\\prog_asp_net\\EjerciciosNoPublicos\\ASP-A3.4-Ejercicios_de_intercambio_de_datos_Vista-Controlador\\Ejercicio1.1\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Ejercicio1.1\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-26T10:12:12.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "W:\\REPOS\\prog_asp_net\\EjerciciosNoPublicos\\ASP-A3.4-Ejercicios_de_intercambio_de_datos_Vista-Controlador\\Ejercicio1.1\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Ejercicio1.1\\Views\\_ViewStart.cshtml",
+              "ToolTip": "W:\\REPOS\\prog_asp_net\\EjerciciosNoPublicos\\ASP-A3.4-Ejercicios_de_intercambio_de_datos_Vista-Controlador\\Ejercicio1.1\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Ejercicio1.1\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-26T10:12:06.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "W:\\REPOS\\prog_asp_net\\EjerciciosNoPublicos\\ASP-A3.4-Ejercicios_de_intercambio_de_datos_Vista-Controlador\\Ejercicio1.1\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Ejercicio1.1\\Views\\_ViewImports.cshtml",
+              "ToolTip": "W:\\REPOS\\prog_asp_net\\EjerciciosNoPublicos\\ASP-A3.4-Ejercicios_de_intercambio_de_datos_Vista-Controlador\\Ejercicio1.1\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Ejercicio1.1\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-26T10:12:07.84Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

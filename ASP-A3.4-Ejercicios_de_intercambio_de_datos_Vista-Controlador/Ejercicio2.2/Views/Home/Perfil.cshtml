@@ -1,0 +1,16 @@
+﻿@model Ejercicio2._2.Models.PerfilViewModel
+
+<div class="text-center">
+    <h1 class="display-4">Bienvenido/a @Model.Nombre</h1>
+
+    @if (Model.EsAdmin)
+    {
+        <p>Eres <strong>administrador</strong>.</p>
+    }
+    else
+    {
+        <p>Eres un <strong>usuario estándar</strong> (no tienes privilegios de administrador).</p>
+    }
+
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>

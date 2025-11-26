@@ -1,0 +1,29 @@
+﻿@{
+    ViewData["Title"] = "Listado de Usuarios";
+}
+
+<h2>Listado de Usuarios</h2>
+
+@if (TempData["MensajeExito"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["MensajeExito"]
+    </div>
+}
+
+<p>(Tabla de usuarios)</p>
+
+<br/>
+
+<h3>Crear nuevo usuario</h3>
+
+<form asp-action="CrearUsuario" method="post">
+    <div class="form-group">
+        <label>Nombre:</label>
+        <input name="Nombre" class="form-control" style="width: 300px;" />
+    </div>
+
+    <br/>
+
+    <button type="submit" class="btn btn-success">Crear usuario</button>
+</form>
